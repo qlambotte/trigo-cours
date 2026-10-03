@@ -1,0 +1,53 @@
+# Réglages du site « Fonctions trigonométriques » (voir ../../../typweb/gabarit/typweb.toml)
+
+[cours]
+titre      = "Fonctions trigonométriques"
+sous-titre = "Cours & exercices — 5e, 4 périodes (5UAA5)"
+auteur     = "Quentin Lambotte"
+annee      = "5e"
+uaa        = "5UAA5"
+depot      = "https://github.com/qlambotte/trigo-cours"
+site-url   = "https://qlambotte.github.io/trigo-cours/"
+portail    = "https://qlambotte.github.io/5e.html"
+
+[notes]
+dossier    = "../notes"
+principal  = "trigo.typ"
+
+[pdf]
+corrige    = true
+eleve      = "trigo.pdf"
+nom-corrige = "trigo-corrige.pdf"
+
+[[pdf.autres]]
+titre   = "Exercices supplémentaires — chapitre 1"
+fichier = "trigo-ch1-suppl.pdf"
+source  = "trigo-ch1-exos-suppl.typ"
+
+[[pdf.autres]]
+titre   = "Exercices supplémentaires — chapitre 2"
+fichier = "trigo-ch2-suppl.pdf"
+source  = "trigo-ch2-exos-suppl.typ"
+
+[[pdf.autres]]
+titre   = "Exercices supplémentaires — chapitre 3"
+fichier = "trigo-ch3-suppl.pdf"
+source  = "trigo-ch3-exos-suppl.typ"
+
+[[pdf.autres]]
+titre   = "Exercices supplémentaires — chapitre 4"
+fichier = "trigo-ch4-suppl.pdf"
+source  = "trigo-ch4-exos-suppl.typ"
+
+[[pdf.autres]]
+titre   = "Exercices supplémentaires — chapitre 5"
+fichier = "trigo-ch5-suppl.pdf"
+source  = "trigo-ch5-exos-suppl.typ"
+
+[[pdf.autres]]
+titre   = "Exercices supplémentaires — module dérivées"
+fichier = "trigo-derivees-suppl.pdf"
+source  = "trigo-derivees-exos-suppl.typ"
+
+[modules]
+actifs = ["interactif", "trigo"]

@@ -1,0 +1,15 @@
+---
+title: "Fonctions trigonométriques — cours & exercices"
+---
+
+Ce site accompagne le **cours imprimé** de 5e (UAA 5). On y trouve le même texte, avec les **mêmes numéros** (Activité 1.2, Exercice 2.5…), et en plus :
+
+- des **animations** : le point qui tourne sur le cercle et la courbe qui se trace en même temps, la grande roue, l'aire du disque, les équations, les paramètres $a$, $b$, $c$ ; un bouton « valeurs » affiche les nombres calculés ;
+- pour chaque exercice, des **coups de pouce** à dévoiler un par un : un renvoi à la théorie, une question à te poser, une étape pour démarrer, puis la solution et les pièges ;
+- une page pour **t'autoévaluer**, objectif par objectif.
+
+La question qui guide tout le cours : *à quelle hauteur sera une cabine de la grande roue London Eye au bout de $t$ minutes ? Quand dépassera-t-elle 100 m ?*
+
+::: {.callout-tip title="Comment travailler"}
+Lis le cours, **manipule les animations** (fais d'abord ta prédiction !), puis passe aux exercices. N'ouvre les *coups de pouce* qu'après avoir cherché : ils sont faits pour te débloquer, pas pour remplacer ta recherche.
+:::
