@@ -4,8 +4,8 @@
  "uaa": "5UAA5",
  "annee": "5e",
  "cle": "trigo",
- "empreinte": "d9e583e1cb67",
- "genere": "2026-10-16",
+ "empreinte": "2384da7b95b2",
+ "genere": "2026-10-27",
  "elements": [
   {
    "id": "5UAA5.tourner-angles-arcs-radians",
@@ -125,7 +125,7 @@
    "etiquettes": [],
    "ancre": "ch1-tourner-angles-arcs/2-longueur-dun-arc-aire-dun.html#5UAA5.ex.003",
    "num": "1.3",
-   "page": 8
+   "page": 9
   },
   {
    "id": "5UAA5.ex.004",
@@ -199,7 +199,7 @@
    "etiquettes": [],
    "ancre": "ch1-tourner-angles-arcs/3-le-radian-mesurer-un-arc.html#5UAA5.radian",
    "num": "1.1",
-   "page": 10
+   "page": 11
   },
   {
    "id": "5UAA5.arc-secteur-angle-radians",
@@ -209,7 +209,7 @@
    "etiquettes": [],
    "ancre": "ch1-tourner-angles-arcs/3-le-radian-mesurer-un-arc.html#5UAA5.arc-secteur-angle-radians",
    "num": "1.3",
-   "page": 10
+   "page": 11
   },
   {
    "id": "5UAA5.exm.002",
@@ -219,7 +219,7 @@
    "etiquettes": [],
    "ancre": "ch1-tourner-angles-arcs/3-le-radian-mesurer-un-arc.html#5UAA5.exm.002",
    "num": "1.2",
-   "page": 11
+   "page": 12
   },
   {
    "id": "5UAA5.ex.007",
@@ -229,7 +229,7 @@
    "etiquettes": [],
    "ancre": "ch1-tourner-angles-arcs/3-le-radian-mesurer-un-arc.html#5UAA5.ex.007",
    "num": "1.7",
-   "page": 11
+   "page": 12
   },
   {
    "id": "5UAA5.ex.008",
@@ -239,7 +239,7 @@
    "etiquettes": [],
    "ancre": "ch1-tourner-angles-arcs/3-le-radian-mesurer-un-arc.html#5UAA5.ex.008",
    "num": "1.8",
-   "page": 11
+   "page": 12
   },
   {
    "id": "5UAA5.ex.009",
@@ -261,7 +261,7 @@
    ],
    "ancre": "ch1-tourner-angles-arcs/3-le-radian-mesurer-un-arc.html#5UAA5.ex.010",
    "num": "1.10",
-   "page": 12
+   "page": 13
   },
   {
    "id": "5UAA5.angles-orientes-plusieurs-tours",
@@ -281,7 +281,7 @@
    "etiquettes": [],
    "ancre": "ch1-tourner-angles-arcs/4-angles-orientes-plusieurs-tours.html#5UAA5.angle-oriente",
    "num": "1.2",
-   "page": 12
+   "page": 13
   },
   {
    "id": "5UAA5.mesures-angle-oriente",
@@ -291,7 +291,7 @@
    "etiquettes": [],
    "ancre": "ch1-tourner-angles-arcs/4-angles-orientes-plusieurs-tours.html#5UAA5.mesures-angle-oriente",
    "num": "1.3",
-   "page": 13
+   "page": 14
   },
   {
    "id": "5UAA5.exm.003",
@@ -301,7 +301,7 @@
    "etiquettes": [],
    "ancre": "ch1-tourner-angles-arcs/4-angles-orientes-plusieurs-tours.html#5UAA5.exm.003",
    "num": "1.3",
-   "page": 13
+   "page": 14
   },
   {
    "id": "5UAA5.rem.001",
@@ -311,7 +311,7 @@
    "etiquettes": [],
    "ancre": "ch1-tourner-angles-arcs/4-angles-orientes-plusieurs-tours.html#5UAA5.rem.001",
    "num": "1.1",
-   "page": 13
+   "page": 14
   },
   {
    "id": "5UAA5.ex.011",
@@ -321,7 +321,7 @@
    "etiquettes": [],
    "ancre": "ch1-tourner-angles-arcs/4-angles-orientes-plusieurs-tours.html#5UAA5.ex.011",
    "num": "1.11",
-   "page": 13
+   "page": 14
   },
   {
    "id": "5UAA5.ex.012",
@@ -331,7 +331,7 @@
    "etiquettes": [],
    "ancre": "ch1-tourner-angles-arcs/4-angles-orientes-plusieurs-tours.html#5UAA5.ex.012",
    "num": "1.12",
-   "page": 13
+   "page": 14
   },
   {
    "id": "5UAA5.ex.013",
@@ -341,7 +341,7 @@
    "etiquettes": [],
    "ancre": "ch1-tourner-angles-arcs/4-angles-orientes-plusieurs-tours.html#5UAA5.ex.013",
    "num": "1.13",
-   "page": 14
+   "page": 15
   },
   {
    "id": "5UAA5.ex.014",
@@ -351,7 +351,7 @@
    "etiquettes": [],
    "ancre": "ch1-tourner-angles-arcs/4-angles-orientes-plusieurs-tours.html#5UAA5.ex.014",
    "num": "1.14",
-   "page": 14
+   "page": 15
   },
   {
    "id": "5UAA5.ex.015",
@@ -361,7 +361,7 @@
    "etiquettes": [],
    "ancre": "ch1-tourner-angles-arcs/4-angles-orientes-plusieurs-tours.html#5UAA5.ex.015",
    "num": "1.15",
-   "page": 14
+   "page": 15
   },
   {
    "id": "5UAA5.ex.016",
@@ -373,7 +373,7 @@
    ],
    "ancre": "ch1-tourner-angles-arcs/4-angles-orientes-plusieurs-tours.html#5UAA5.ex.016",
    "num": "1.16",
-   "page": 14
+   "page": 15
   },
   {
    "id": "5UAA5.cercle-trigonometrique",
@@ -403,7 +403,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/1-enrouler-la-droite-reelle-sur.html#5UAA5.enrouler-droite-graduee",
    "num": "2.1",
-   "page": 15
+   "page": 16
   },
   {
    "id": "5UAA5.cercle-trigonometrique-2",
@@ -413,7 +413,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/1-enrouler-la-droite-reelle-sur.html#5UAA5.cercle-trigonometrique-2",
    "num": "2.1",
-   "page": 16
+   "page": 17
   },
   {
    "id": "5UAA5.cosinus-sinus-reel",
@@ -423,7 +423,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/1-enrouler-la-droite-reelle-sur.html#5UAA5.cosinus-sinus-reel",
    "num": "2.2",
-   "page": 17
+   "page": 18
   },
   {
    "id": "5UAA5.rappel-3-e",
@@ -433,7 +433,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/1-enrouler-la-droite-reelle-sur.html#5UAA5.rappel-3-e",
    "num": "2.1",
-   "page": 17
+   "page": 18
   },
   {
    "id": "5UAA5.rayon-est-unite",
@@ -443,7 +443,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/1-enrouler-la-droite-reelle-sur.html#5UAA5.rayon-est-unite",
    "num": "2.2",
-   "page": 17
+   "page": 18
   },
   {
    "id": "5UAA5.signe-se-lit-axes",
@@ -453,7 +453,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/1-enrouler-la-droite-reelle-sur.html#5UAA5.signe-se-lit-axes",
    "num": "2.2",
-   "page": 17
+   "page": 19
   },
   {
    "id": "5UAA5.exm.004",
@@ -463,7 +463,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/1-enrouler-la-droite-reelle-sur.html#5UAA5.exm.004",
    "num": "2.1",
-   "page": 18
+   "page": 19
   },
   {
    "id": "5UAA5.ex.017",
@@ -473,7 +473,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/1-enrouler-la-droite-reelle-sur.html#5UAA5.ex.017",
    "num": "2.1",
-   "page": 18
+   "page": 19
   },
   {
    "id": "5UAA5.ex.018",
@@ -483,7 +483,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/1-enrouler-la-droite-reelle-sur.html#5UAA5.ex.018",
    "num": "2.2",
-   "page": 18
+   "page": 20
   },
   {
    "id": "5UAA5.ex.019",
@@ -493,7 +493,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/1-enrouler-la-droite-reelle-sur.html#5UAA5.ex.019",
    "num": "2.3",
-   "page": 18
+   "page": 20
   },
   {
    "id": "5UAA5.valeurs-remarquables-symetries",
@@ -513,7 +513,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.html#5UAA5.relation-fondamentale",
    "num": "2.1",
-   "page": 19
+   "page": 21
   },
   {
    "id": "5UAA5.carre-triangle-equilateral",
@@ -523,7 +523,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.html#5UAA5.carre-triangle-equilateral",
    "num": "2.3",
-   "page": 19
+   "page": 21
   },
   {
    "id": "5UAA5.rem.002",
@@ -533,7 +533,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.html#5UAA5.rem.002",
    "num": "2.3",
-   "page": 20
+   "page": 21
   },
   {
    "id": "5UAA5.symetries-cercle",
@@ -543,7 +543,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.html#5UAA5.symetries-cercle",
    "num": "2.4",
-   "page": 20
+   "page": 22
   },
   {
    "id": "5UAA5.angles-associes-lus-cercle",
@@ -553,7 +553,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.html#5UAA5.angles-associes-lus-cercle",
    "num": "2.2",
-   "page": 21
+   "page": 22
   },
   {
    "id": "5UAA5.rem.003",
@@ -563,7 +563,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.html#5UAA5.rem.003",
    "num": "2.4",
-   "page": 21
+   "page": 22
   },
   {
    "id": "5UAA5.exm.005",
@@ -573,7 +573,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.html#5UAA5.exm.005",
    "num": "2.2",
-   "page": 21
+   "page": 23
   },
   {
    "id": "5UAA5.seize-points-remarquables",
@@ -583,7 +583,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.html#5UAA5.seize-points-remarquables",
    "num": "2.5",
-   "page": 21
+   "page": 23
   },
   {
    "id": "5UAA5.ex.020",
@@ -595,7 +595,7 @@
    ],
    "ancre": "ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.html#5UAA5.ex.020",
    "num": "2.4",
-   "page": 21
+   "page": 23
   },
   {
    "id": "5UAA5.ex.021",
@@ -607,7 +607,7 @@
    ],
    "ancre": "ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.html#5UAA5.ex.021",
    "num": "2.5",
-   "page": 22
+   "page": 23
   },
   {
    "id": "5UAA5.ex.022",
@@ -617,7 +617,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.html#5UAA5.ex.022",
    "num": "2.6",
-   "page": 22
+   "page": 23
   },
   {
    "id": "5UAA5.ex.023",
@@ -629,7 +629,7 @@
    ],
    "ancre": "ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.html#5UAA5.ex.023",
    "num": "2.7",
-   "page": 22
+   "page": 24
   },
   {
    "id": "5UAA5.equations",
@@ -649,7 +649,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/3-equations-sin-x-a-et.html#5UAA5.combien-points",
    "num": "2.6",
-   "page": 22
+   "page": 24
   },
   {
    "id": "5UAA5.calculatrice-deux-reponses",
@@ -659,7 +659,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/3-equations-sin-x-a-et.html#5UAA5.calculatrice-deux-reponses",
    "num": "2.7",
-   "page": 22
+   "page": 24
   },
   {
    "id": "5UAA5.equations-2",
@@ -669,7 +669,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/3-equations-sin-x-a-et.html#5UAA5.equations-2",
    "num": "2.3",
-   "page": 23
+   "page": 25
   },
   {
    "id": "5UAA5.valeur-remarquable",
@@ -679,7 +679,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/3-equations-sin-x-a-et.html#5UAA5.valeur-remarquable",
    "num": "2.3",
-   "page": 23
+   "page": 25
   },
   {
    "id": "5UAA5.calculatrice-intervalle",
@@ -689,7 +689,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/3-equations-sin-x-a-et.html#5UAA5.calculatrice-intervalle",
    "num": "2.4",
-   "page": 23
+   "page": 25
   },
   {
    "id": "5UAA5.ex.024",
@@ -699,7 +699,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/3-equations-sin-x-a-et.html#5UAA5.ex.024",
    "num": "2.8",
-   "page": 24
+   "page": 26
   },
   {
    "id": "5UAA5.ex.025",
@@ -711,7 +711,7 @@
    ],
    "ancre": "ch2-le-cercle-trigonomet/3-equations-sin-x-a-et.html#5UAA5.ex.025",
    "num": "2.9",
-   "page": 24
+   "page": 26
   },
   {
    "id": "5UAA5.tangente",
@@ -731,7 +731,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/4-la-tangente.html#5UAA5.tangente-reel",
    "num": "2.3",
-   "page": 24
+   "page": 26
   },
   {
    "id": "5UAA5.valeurs-signes-tangente",
@@ -741,7 +741,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/4-la-tangente.html#5UAA5.valeurs-signes-tangente",
    "num": "2.8",
-   "page": 24
+   "page": 26
   },
   {
    "id": "5UAA5.ex.026",
@@ -751,7 +751,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/4-la-tangente.html#5UAA5.ex.026",
    "num": "2.10",
-   "page": 25
+   "page": 27
   },
   {
    "id": "5UAA5.ex.027",
@@ -761,7 +761,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/4-la-tangente.html#5UAA5.ex.027",
    "num": "2.11",
-   "page": 25
+   "page": 27
   },
   {
    "id": "5UAA5.equations-3",
@@ -781,7 +781,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/5-equations-tan-x-a.html#5UAA5.equation-tan",
    "num": "2.4",
-   "page": 25
+   "page": 28
   },
   {
    "id": "5UAA5.exm.006",
@@ -791,7 +791,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/5-equations-tan-x-a.html#5UAA5.exm.006",
    "num": "2.5",
-   "page": 25
+   "page": 28
   },
   {
    "id": "5UAA5.ex.028",
@@ -801,7 +801,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/5-equations-tan-x-a.html#5UAA5.ex.028",
    "num": "2.12",
-   "page": 25
+   "page": 28
   },
   {
    "id": "5UAA5.ex.029",
@@ -811,7 +811,7 @@
    "etiquettes": [],
    "ancre": "ch2-le-cercle-trigonomet/5-equations-tan-x-a.html#5UAA5.ex.029",
    "num": "2.13",
-   "page": 26
+   "page": 28
   },
   {
    "id": "5UAA5.ex.030",
@@ -823,7 +823,7 @@
    ],
    "ancre": "ch2-le-cercle-trigonomet/5-equations-tan-x-a.html#5UAA5.ex.030",
    "num": "2.14",
-   "page": 26
+   "page": 28
   },
   {
    "id": "5UAA5.fonctions-trigonometriques",
@@ -853,7 +853,7 @@
    "etiquettes": [],
    "ancre": "ch3-les-fonctions-trigon/1-du-cercle-au-graphique-sinus.html#5UAA5.derouler-cercle",
    "num": "3.1",
-   "page": 27
+   "page": 31
   },
   {
    "id": "5UAA5.cosinus-sinus-meme-courbe",
@@ -863,7 +863,7 @@
    "etiquettes": [],
    "ancre": "ch3-les-fonctions-trigon/1-du-cercle-au-graphique-sinus.html#5UAA5.cosinus-sinus-meme-courbe",
    "num": "3.2",
-   "page": 29
+   "page": 32
   },
   {
    "id": "5UAA5.fonction-periodique",
@@ -873,7 +873,7 @@
    "etiquettes": [],
    "ancre": "ch3-les-fonctions-trigon/1-du-cercle-au-graphique-sinus.html#5UAA5.fonction-periodique",
    "num": "3.1",
-   "page": 29
+   "page": 32
   },
   {
    "id": "5UAA5.exm.007",
@@ -883,7 +883,7 @@
    "etiquettes": [],
    "ancre": "ch3-les-fonctions-trigon/1-du-cercle-au-graphique-sinus.html#5UAA5.exm.007",
    "num": "3.1",
-   "page": 29
+   "page": 32
   },
   {
    "id": "5UAA5.ex.031",
@@ -893,7 +893,7 @@
    "etiquettes": [],
    "ancre": "ch3-les-fonctions-trigon/1-du-cercle-au-graphique-sinus.html#5UAA5.ex.031",
    "num": "3.1",
-   "page": 30
+   "page": 33
   },
   {
    "id": "5UAA5.ex.032",
@@ -905,7 +905,7 @@
    ],
    "ancre": "ch3-les-fonctions-trigon/1-du-cercle-au-graphique-sinus.html#5UAA5.ex.032",
    "num": "3.2",
-   "page": 31
+   "page": 34
   },
   {
    "id": "5UAA5.ex.033",
@@ -915,7 +915,7 @@
    "etiquettes": [],
    "ancre": "ch3-les-fonctions-trigon/1-du-cercle-au-graphique-sinus.html#5UAA5.ex.033",
    "num": "3.3",
-   "page": 31
+   "page": 34
   },
   {
    "id": "5UAA5.ex.034",
@@ -925,7 +925,7 @@
    "etiquettes": [],
    "ancre": "ch3-les-fonctions-trigon/1-du-cercle-au-graphique-sinus.html#5UAA5.ex.034",
    "num": "3.4",
-   "page": 31
+   "page": 34
   },
   {
    "id": "5UAA5.fonction-tangente",
@@ -945,7 +945,7 @@
    "etiquettes": [],
    "ancre": "ch3-les-fonctions-trigon/2-la-fonction-tangente.html#5UAA5.pente-bras",
    "num": "3.3",
-   "page": 31
+   "page": 35
   },
   {
    "id": "5UAA5.ex.035",
@@ -955,7 +955,7 @@
    "etiquettes": [],
    "ancre": "ch3-les-fonctions-trigon/2-la-fonction-tangente.html#5UAA5.ex.035",
    "num": "3.5",
-   "page": 33
+   "page": 36
   },
   {
    "id": "5UAA5.ex.036",
@@ -965,7 +965,7 @@
    "etiquettes": [],
    "ancre": "ch3-les-fonctions-trigon/2-la-fonction-tangente.html#5UAA5.ex.036",
    "num": "3.6",
-   "page": 33
+   "page": 36
   },
   {
    "id": "5UAA5.ex.037",
@@ -975,7 +975,7 @@
    "etiquettes": [],
    "ancre": "ch3-les-fonctions-trigon/2-la-fonction-tangente.html#5UAA5.ex.037",
    "num": "3.7",
-   "page": 33
+   "page": 37
   },
   {
    "id": "5UAA5.resoudre-graphiquement-choisir-son-outil",
@@ -995,7 +995,7 @@
    "etiquettes": [],
    "ancre": "ch3-les-fonctions-trigon/3-resoudre-graphiquement-choisir-son-outil.html#5UAA5.graphique",
    "num": "3.4",
-   "page": 34
+   "page": 37
   },
   {
    "id": "5UAA5.quel-outil-quelle-question",
@@ -1005,7 +1005,7 @@
    "etiquettes": [],
    "ancre": "ch3-les-fonctions-trigon/3-resoudre-graphiquement-choisir-son-outil.html#5UAA5.quel-outil-quelle-question",
    "num": "3.1",
-   "page": 34
+   "page": 37
   },
   {
    "id": "5UAA5.ex.038",
@@ -1015,7 +1015,7 @@
    "etiquettes": [],
    "ancre": "ch3-les-fonctions-trigon/3-resoudre-graphiquement-choisir-son-outil.html#5UAA5.ex.038",
    "num": "3.8",
-   "page": 34
+   "page": 38
   },
   {
    "id": "5UAA5.ex.039",
@@ -1025,7 +1025,7 @@
    "etiquettes": [],
    "ancre": "ch3-les-fonctions-trigon/3-resoudre-graphiquement-choisir-son-outil.html#5UAA5.ex.039",
    "num": "3.9",
-   "page": 34
+   "page": 38
   },
   {
    "id": "5UAA5.fonction-x-sin-bx-c",
@@ -1055,7 +1055,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/1-role-de-a-et-de.html#5UAA5.predire-puis-verifier",
    "num": "4.1",
-   "page": 35
+   "page": 39
   },
   {
    "id": "5UAA5.role-2",
@@ -1065,7 +1065,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/1-role-de-a-et-de.html#5UAA5.role-2",
    "num": "4.1",
-   "page": 36
+   "page": 40
   },
   {
    "id": "5UAA5.ex.040",
@@ -1075,7 +1075,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/1-role-de-a-et-de.html#5UAA5.ex.040",
    "num": "4.1",
-   "page": 36
+   "page": 40
   },
   {
    "id": "5UAA5.ex.041",
@@ -1085,7 +1085,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/1-role-de-a-et-de.html#5UAA5.ex.041",
    "num": "4.2",
-   "page": 36
+   "page": 41
   },
   {
    "id": "5UAA5.role-phase-dephasage",
@@ -1105,7 +1105,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/2-role-de-c-phase-et.html#5UAA5.sinusoide-commence-t-elle",
    "num": "4.2",
-   "page": 37
+   "page": 41
   },
   {
    "id": "5UAA5.role-3",
@@ -1115,7 +1115,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/2-role-de-c-phase-et.html#5UAA5.role-3",
    "num": "4.2",
-   "page": 37
+   "page": 41
   },
   {
    "id": "5UAA5.notation-physique",
@@ -1125,7 +1125,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/2-role-de-c-phase-et.html#5UAA5.notation-physique",
    "num": "4.1",
-   "page": 37
+   "page": 42
   },
   {
    "id": "5UAA5.ex.042",
@@ -1135,7 +1135,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/2-role-de-c-phase-et.html#5UAA5.ex.042",
    "num": "4.3",
-   "page": 38
+   "page": 42
   },
   {
    "id": "5UAA5.ex.043",
@@ -1145,7 +1145,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/2-role-de-c-phase-et.html#5UAA5.ex.043",
    "num": "4.4",
-   "page": 38
+   "page": 42
   },
   {
    "id": "5UAA5.ex.044",
@@ -1155,7 +1155,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/2-role-de-c-phase-et.html#5UAA5.ex.044",
    "num": "4.5",
-   "page": 38
+   "page": 43
   },
   {
    "id": "5UAA5.tracer-apparier-retrouver-expression",
@@ -1175,7 +1175,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/3-tracer-apparier-retrouver-lexpression.html#5UAA5.exm.008",
    "num": "4.1",
-   "page": 38
+   "page": 43
   },
   {
    "id": "5UAA5.ex.045",
@@ -1185,7 +1185,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/3-tracer-apparier-retrouver-lexpression.html#5UAA5.ex.045",
    "num": "4.6",
-   "page": 39
+   "page": 43
   },
   {
    "id": "5UAA5.ex.046",
@@ -1195,7 +1195,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/3-tracer-apparier-retrouver-lexpression.html#5UAA5.ex.046",
    "num": "4.7",
-   "page": 39
+   "page": 44
   },
   {
    "id": "5UAA5.ex.047",
@@ -1205,7 +1205,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/3-tracer-apparier-retrouver-lexpression.html#5UAA5.ex.047",
    "num": "4.8",
-   "page": 39
+   "page": 44
   },
   {
    "id": "5UAA5.ex.048",
@@ -1217,7 +1217,7 @@
    ],
    "ancre": "ch4-la-fonction-x-a-sin/3-tracer-apparier-retrouver-lexpression.html#5UAA5.ex.048",
    "num": "4.9",
-   "page": 40
+   "page": 45
   },
   {
    "id": "5UAA5.exm.009",
@@ -1227,7 +1227,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/3-tracer-apparier-retrouver-lexpression.html#5UAA5.exm.009",
    "num": "4.2",
-   "page": 41
+   "page": 45
   },
   {
    "id": "5UAA5.rem.004",
@@ -1237,7 +1237,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/3-tracer-apparier-retrouver-lexpression.html#5UAA5.rem.004",
    "num": "4.2",
-   "page": 41
+   "page": 45
   },
   {
    "id": "5UAA5.ex.049",
@@ -1247,7 +1247,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/3-tracer-apparier-retrouver-lexpression.html#5UAA5.ex.049",
    "num": "4.10",
-   "page": 41
+   "page": 46
   },
   {
    "id": "5UAA5.ex.050",
@@ -1259,7 +1259,7 @@
    ],
    "ancre": "ch4-la-fonction-x-a-sin/3-tracer-apparier-retrouver-lexpression.html#5UAA5.ex.050",
    "num": "4.11",
-   "page": 41
+   "page": 46
   },
   {
    "id": "5UAA5.exm.010",
@@ -1269,7 +1269,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/3-tracer-apparier-retrouver-lexpression.html#5UAA5.exm.010",
    "num": "4.3",
-   "page": 41
+   "page": 46
   },
   {
    "id": "5UAA5.ex.051",
@@ -1279,7 +1279,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/3-tracer-apparier-retrouver-lexpression.html#5UAA5.ex.051",
    "num": "4.12",
-   "page": 42
+   "page": 46
   },
   {
    "id": "5UAA5.ex.052",
@@ -1291,7 +1291,7 @@
    ],
    "ancre": "ch4-la-fonction-x-a-sin/3-tracer-apparier-retrouver-lexpression.html#5UAA5.ex.052",
    "num": "4.13",
-   "page": 42
+   "page": 47
   },
   {
    "id": "5UAA5.equations-4",
@@ -1311,7 +1311,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/4-equations-a-sin-b-x.html#5UAA5.exm.011",
    "num": "4.4",
-   "page": 42
+   "page": 47
   },
   {
    "id": "5UAA5.ex.053",
@@ -1321,7 +1321,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/4-equations-a-sin-b-x.html#5UAA5.ex.053",
    "num": "4.14",
-   "page": 42
+   "page": 47
   },
   {
    "id": "5UAA5.ex.054",
@@ -1331,7 +1331,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/4-equations-a-sin-b-x.html#5UAA5.ex.054",
    "num": "4.15",
-   "page": 42
+   "page": 48
   },
   {
    "id": "5UAA5.ex.055",
@@ -1341,7 +1341,7 @@
    "etiquettes": [],
    "ancre": "ch4-la-fonction-x-a-sin/4-equations-a-sin-b-x.html#5UAA5.ex.055",
    "num": "4.16",
-   "page": 43
+   "page": 48
   },
   {
    "id": "5UAA5.modeliser-phenomenes-periodiques",
@@ -1371,7 +1371,7 @@
    "etiquettes": [],
    "ancre": "ch5-modeliser-des-phenom/1-des-sinusoides-partout.html#5UAA5.enrouler-couper-derouler",
    "num": "5.1",
-   "page": 44
+   "page": 49
   },
   {
    "id": "5UAA5.rem.005",
@@ -1381,7 +1381,7 @@
    "etiquettes": [],
    "ancre": "ch5-modeliser-des-phenom/1-des-sinusoides-partout.html#5UAA5.rem.005",
    "num": "5.1",
-   "page": 45
+   "page": 50
   },
   {
    "id": "5UAA5.modeliser-duree-jour",
@@ -1391,7 +1391,7 @@
    "etiquettes": [],
    "ancre": "ch5-modeliser-des-phenom/1-des-sinusoides-partout.html#5UAA5.modeliser-duree-jour",
    "num": "5.2",
-   "page": 45
+   "page": 50
   },
   {
    "id": "5UAA5.retour-london-eye-limites-modele",
@@ -1411,7 +1411,7 @@
    "etiquettes": [],
    "ancre": "ch5-modeliser-des-phenom/2-retour-au-london-eye-les.html#5UAA5.plus-100-m-dessus-sol",
    "num": "5.3",
-   "page": 46
+   "page": 51
   },
   {
    "id": "5UAA5.limites-modele",
@@ -1421,7 +1421,7 @@
    "etiquettes": [],
    "ancre": "ch5-modeliser-des-phenom/2-retour-au-london-eye-les.html#5UAA5.limites-modele",
    "num": "5.2",
-   "page": 46
+   "page": 52
   },
   {
    "id": "5UAA5.ex.056",
@@ -1431,7 +1431,7 @@
    "etiquettes": [],
    "ancre": "ch5-modeliser-des-phenom/2-retour-au-london-eye-les.html#5UAA5.ex.056",
    "num": "5.1",
-   "page": 47
+   "page": 52
   },
   {
    "id": "5UAA5.ex.057",
@@ -1441,7 +1441,7 @@
    "etiquettes": [],
    "ancre": "ch5-modeliser-des-phenom/2-retour-au-london-eye-les.html#5UAA5.ex.057",
    "num": "5.2",
-   "page": 47
+   "page": 52
   },
   {
    "id": "5UAA5.ex.058",
@@ -1453,7 +1453,7 @@
    ],
    "ancre": "ch5-modeliser-des-phenom/2-retour-au-london-eye-les.html#5UAA5.ex.058",
    "num": "5.3",
-   "page": 47
+   "page": 52
   },
   {
    "id": "5UAA5.module-derivees-trigonometriques",
@@ -1483,7 +1483,7 @@
    "etiquettes": [],
    "ancre": "ch6-module-derivees-trig/1-derivees-de-sinus-cosinus-et.html#5UAA5.pente-sinusoide",
    "num": "6.1",
-   "page": 48
+   "page": 53
   },
   {
    "id": "5UAA5.pourquoi-radians",
@@ -1493,7 +1493,7 @@
    "etiquettes": [],
    "ancre": "ch6-module-derivees-trig/1-derivees-de-sinus-cosinus-et.html#5UAA5.pourquoi-radians",
    "num": "6.2",
-   "page": 49
+   "page": 54
   },
   {
    "id": "5UAA5.derivees",
@@ -1503,7 +1503,7 @@
    "etiquettes": [],
    "ancre": "ch6-module-derivees-trig/1-derivees-de-sinus-cosinus-et.html#5UAA5.derivees",
    "num": "6.1",
-   "page": 49
+   "page": 54
   },
   {
    "id": "5UAA5.ex.059",
@@ -1513,7 +1513,7 @@
    "etiquettes": [],
    "ancre": "ch6-module-derivees-trig/1-derivees-de-sinus-cosinus-et.html#5UAA5.ex.059",
    "num": "6.1",
-   "page": 50
+   "page": 55
   },
   {
    "id": "5UAA5.ex.060",
@@ -1523,7 +1523,7 @@
    "etiquettes": [],
    "ancre": "ch6-module-derivees-trig/1-derivees-de-sinus-cosinus-et.html#5UAA5.ex.060",
    "num": "6.2",
-   "page": 50
+   "page": 55
   },
   {
    "id": "5UAA5.ex.061",
@@ -1533,7 +1533,7 @@
    "etiquettes": [],
    "ancre": "ch6-module-derivees-trig/1-derivees-de-sinus-cosinus-et.html#5UAA5.ex.061",
    "num": "6.3",
-   "page": 50
+   "page": 55
   },
   {
    "id": "5UAA5.ex.062",
@@ -1545,7 +1545,7 @@
    ],
    "ancre": "ch6-module-derivees-trig/1-derivees-de-sinus-cosinus-et.html#5UAA5.ex.062",
    "num": "6.4",
-   "page": 50
+   "page": 55
   },
   {
    "id": "5UAA5.derivees-composees-vitesse-mouvement-circulaire",
@@ -1565,7 +1565,7 @@
    "etiquettes": [],
    "ancre": "ch6-module-derivees-trig/2-derivees-de-composees-vitesse-dun.html#5UAA5.derivees-composees",
    "num": "6.2",
-   "page": 50
+   "page": 55
   },
   {
    "id": "5UAA5.ex.063",
@@ -1575,7 +1575,7 @@
    "etiquettes": [],
    "ancre": "ch6-module-derivees-trig/2-derivees-de-composees-vitesse-dun.html#5UAA5.ex.063",
    "num": "6.5",
-   "page": 50
+   "page": 56
   },
   {
    "id": "5UAA5.ex.064",
@@ -1585,7 +1585,7 @@
    "etiquettes": [],
    "ancre": "ch6-module-derivees-trig/2-derivees-de-composees-vitesse-dun.html#5UAA5.ex.064",
    "num": "6.6",
-   "page": 50
+   "page": 56
   },
   {
    "id": "5UAA5.quelle-vitesse-monte-cabine",
@@ -1595,7 +1595,7 @@
    "etiquettes": [],
    "ancre": "ch6-module-derivees-trig/2-derivees-de-composees-vitesse-dun.html#5UAA5.quelle-vitesse-monte-cabine",
    "num": "6.3",
-   "page": 51
+   "page": 56
   },
   {
    "id": "5UAA5.q.tg-cabine-premier-quart",
