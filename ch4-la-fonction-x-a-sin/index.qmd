@@ -1,0 +1,20 @@
+---
+title: "Chapitre 4 — La fonction x ↦ a sin(bx + c)"
+---
+
+<!-- GÉNÉRÉ par typweb à partir des notes Typst : NE PAS ÉDITER (les modifications seraient écrasées). -->
+
+La hauteur de la cabine ressemble au graphique du sinus, mais elle varie entre $-60$ et $60$ m (et non entre $-1$ et $1$), elle met 30 minutes (et non $2 \pi$) à faire un tour, et elle commence au point le plus bas. Trois réglages suffisent pour passer de l’un à l’autre : c’est le rôle des trois paramètres $a$, $b$ et $c$ de la fonction $x \mapsto a \sin(b x + c)$.
+
+## Sections
+
+1. [Rôle de $a$ et de $b$](1-role-de-a-et-de.qmd) []{.suivi-sec data-exos="4.1 4.2"}
+2. [Rôle de $c$ : phase et déphasage](2-role-de-c-phase-et.qmd) []{.suivi-sec data-exos="4.3 4.4 4.5"}
+3. [Tracer, apparier, retrouver l’expression](3-tracer-apparier-retrouver-lexpression.qmd) []{.suivi-sec data-exos="4.6 4.7 4.8 4.9 4.10 4.11 4.12 4.13"}
+4. [Équations $a \sin(b x + c) = k$](4-equations-a-sin-b-x.qmd) []{.suivi-sec data-exos="4.14 4.15 4.16"}
+
+## À faire à la maison
+
+- [Exercice 4.9](3-tracer-apparier-retrouver-lexpression.qmd#exercice-4-9)
+- [Exercice 4.11](3-tracer-apparier-retrouver-lexpression.qmd#exercice-4-11)
+- [Exercice 4.13](3-tracer-apparier-retrouver-lexpression.qmd#exercice-4-13)

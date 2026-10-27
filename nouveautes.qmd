@@ -1,0 +1,32 @@
+---
+title: "Quoi de neuf ?"
+subtitle: "Ce qui a changé dans le cours en ligne"
+---
+
+<!-- GÉNÉRÉ par typweb à partir des notes Typst : NE PAS ÉDITER (les modifications seraient écrasées). -->
+
+## 27/10/2026
+
+- [La fonction tangente](ch3-les-fonctions-trigon/2-la-fonction-tangente.qmd) — modifié : [Activité 3.3](ch3-les-fonctions-trigon/2-la-fonction-tangente.qmd#activite-3-3)
+
+## 04/10/2026
+
+- [La cabine du London Eye](ch1-tourner-angles-arcs/1-la-cabine-du-london-eye.qmd) — modifié : [Activité 1.1](ch1-tourner-angles-arcs/1-la-cabine-du-london-eye.qmd#activite-1-1), [Exercice 1.1](ch1-tourner-angles-arcs/1-la-cabine-du-london-eye.qmd#exercice-1-1)
+- [Longueur d’un arc, aire d’un secteur](ch1-tourner-angles-arcs/2-longueur-dun-arc-aire-dun.qmd) — modifié : [Activité 1.2](ch1-tourner-angles-arcs/2-longueur-dun-arc-aire-dun.qmd#activite-1-2)
+- [Le radian : mesurer un arc en rayons](ch1-tourner-angles-arcs/3-le-radian-mesurer-un-arc.qmd) — modifié : [Exercice 1.7](ch1-tourner-angles-arcs/3-le-radian-mesurer-un-arc.qmd#exercice-1-7), [Exercice 1.8](ch1-tourner-angles-arcs/3-le-radian-mesurer-un-arc.qmd#exercice-1-8), [Exercice 1.9](ch1-tourner-angles-arcs/3-le-radian-mesurer-un-arc.qmd#exercice-1-9)
+- [Angles orientés, plusieurs tours](ch1-tourner-angles-arcs/4-angles-orientes-plusieurs-tours.qmd) — modifié : [Exercice 1.11](ch1-tourner-angles-arcs/4-angles-orientes-plusieurs-tours.qmd#exercice-1-11), [Exercice 1.12](ch1-tourner-angles-arcs/4-angles-orientes-plusieurs-tours.qmd#exercice-1-12), [Exercice 1.16](ch1-tourner-angles-arcs/4-angles-orientes-plusieurs-tours.qmd#exercice-1-16)
+- [Enrouler la droite réelle sur le cercle](ch2-le-cercle-trigonomet/1-enrouler-la-droite-reelle-sur.qmd) — modifié : [Exercice 2.1](ch2-le-cercle-trigonomet/1-enrouler-la-droite-reelle-sur.qmd#exercice-2-1)
+- [Valeurs remarquables et symétries](ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.qmd) — modifié : [Exercice 2.5](ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.qmd#exercice-2-5), [Exercice 2.6](ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.qmd#exercice-2-6), [Exercice 2.7](ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.qmd#exercice-2-7)
+- [Équations sin x = a et cos x = a](ch2-le-cercle-trigonomet/3-equations-sin-x-a-et.qmd) — modifié : [Activité 2.6](ch2-le-cercle-trigonomet/3-equations-sin-x-a-et.qmd#activite-2-6)
+- [La fonction tangente](ch3-les-fonctions-trigon/2-la-fonction-tangente.qmd) — modifié : [Exercice 3.6](ch3-les-fonctions-trigon/2-la-fonction-tangente.qmd#exercice-3-6)
+- [Rôle de a et de b](ch4-la-fonction-x-a-sin/1-role-de-a-et-de.qmd) — modifié : [Activité 4.1](ch4-la-fonction-x-a-sin/1-role-de-a-et-de.qmd#activite-4-1)
+- [Tracer, apparier, retrouver l’expression](ch4-la-fonction-x-a-sin/3-tracer-apparier-retrouver-lexpression.qmd) — modifié : [Exercice 4.6](ch4-la-fonction-x-a-sin/3-tracer-apparier-retrouver-lexpression.qmd#exercice-4-6), [Exercice 4.7](ch4-la-fonction-x-a-sin/3-tracer-apparier-retrouver-lexpression.qmd#exercice-4-7), [Exercice 4.8](ch4-la-fonction-x-a-sin/3-tracer-apparier-retrouver-lexpression.qmd#exercice-4-8), [Exercice 4.9](ch4-la-fonction-x-a-sin/3-tracer-apparier-retrouver-lexpression.qmd#exercice-4-9)
+- [Des sinusoïdes partout](ch5-modeliser-des-phenom/1-des-sinusoides-partout.qmd) — modifié : [Activité 5.1](ch5-modeliser-des-phenom/1-des-sinusoides-partout.qmd#activite-5-1), [Activité 5.2](ch5-modeliser-des-phenom/1-des-sinusoides-partout.qmd#activite-5-2)
+- [Retour au London Eye ; les limites d’un modèle](ch5-modeliser-des-phenom/2-retour-au-london-eye-les.qmd) — modifié : [Activité 5.3](ch5-modeliser-des-phenom/2-retour-au-london-eye-les.qmd#activite-5-3), [Exercice 5.1](ch5-modeliser-des-phenom/2-retour-au-london-eye-les.qmd#exercice-5-1)
+- [Dérivées de sinus, cosinus et tangente](ch6-module-derivees-trig/1-derivees-de-sinus-cosinus-et.qmd) — modifié : [Exercice 6.1](ch6-module-derivees-trig/1-derivees-de-sinus-cosinus-et.qmd#exercice-6-1), [Exercice 6.2](ch6-module-derivees-trig/1-derivees-de-sinus-cosinus-et.qmd#exercice-6-2), [Exercice 6.3](ch6-module-derivees-trig/1-derivees-de-sinus-cosinus-et.qmd#exercice-6-3), [Exercice 6.4](ch6-module-derivees-trig/1-derivees-de-sinus-cosinus-et.qmd#exercice-6-4)
+- [Dérivées de composées ; vitesse d’un mouvement circulaire](ch6-module-derivees-trig/2-derivees-de-composees-vitesse-dun.qmd) — modifié : [Exercice 6.5](ch6-module-derivees-trig/2-derivees-de-composees-vitesse-dun.qmd#exercice-6-5), [Exercice 6.6](ch6-module-derivees-trig/2-derivees-de-composees-vitesse-dun.qmd#exercice-6-6)
+
+## 03/10/2026
+
+- Première version en ligne du cours.
+

@@ -1,0 +1,17 @@
+---
+title: "Chapitre 3 — Les fonctions trigonométriques"
+---
+
+<!-- GÉNÉRÉ par typweb à partir des notes Typst : NE PAS ÉDITER (les modifications seraient écrasées). -->
+
+Nous savons maintenant calculer la hauteur de la cabine pour n’importe quel angle. Mais une liste de valeurs ne montre pas d’un coup comment la hauteur évolue. Dans ce chapitre, nous suivons la hauteur d’un point qui tourne et nous en traçons le graphique.
+
+## Sections
+
+1. [Du cercle au graphique : sinus et cosinus](1-du-cercle-au-graphique-sinus.qmd) []{.suivi-sec data-exos="3.1 3.2 3.3 3.4"}
+2. [La fonction tangente](2-la-fonction-tangente.qmd) []{.suivi-sec data-exos="3.5 3.6 3.7"}
+3. [Résoudre graphiquement ; choisir son outil](3-resoudre-graphiquement-choisir-son-outil.qmd) []{.suivi-sec data-exos="3.8 3.9"}
+
+## À faire à la maison
+
+- [Exercice 3.2](1-du-cercle-au-graphique-sinus.qmd#exercice-3-2)

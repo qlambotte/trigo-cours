@@ -1,0 +1,23 @@
+---
+title: "Chapitre 2 — Le cercle trigonométrique"
+---
+
+<!-- GÉNÉRÉ par typweb à partir des notes Typst : NE PAS ÉDITER (les modifications seraient écrasées). -->
+
+Au chapitre 1, nous avons appris à mesurer la rotation de la cabine par un nombre : l’angle en radians. Il reste à calculer, à partir de ce nombre, la hauteur de la cabine et son écart horizontal par rapport à l’axe, quel que soit l’angle, même au-delà d’un tour.
+
+## Sections
+
+1. [Enrouler la droite réelle sur le cercle](1-enrouler-la-droite-reelle-sur.qmd) []{.suivi-sec data-exos="2.1 2.2 2.3"}
+2. [Valeurs remarquables et symétries](2-valeurs-remarquables-et-symetries.qmd) []{.suivi-sec data-exos="2.4 2.5 2.6 2.7"}
+3. [Équations $\sin x = a$ et $\cos x = a$](3-equations-sin-x-a-et.qmd) []{.suivi-sec data-exos="2.8 2.9"}
+4. [La tangente](4-la-tangente.qmd) []{.suivi-sec data-exos="2.10 2.11"}
+5. [Équations $\tan x = a$](5-equations-tan-x-a.qmd) []{.suivi-sec data-exos="2.12 2.13 2.14"}
+
+## À faire à la maison
+
+- [Exercice 2.4](2-valeurs-remarquables-et-symetries.qmd#exercice-2-4)
+- [Exercice 2.5](2-valeurs-remarquables-et-symetries.qmd#exercice-2-5)
+- [Exercice 2.7](2-valeurs-remarquables-et-symetries.qmd#exercice-2-7)
+- [Exercice 2.9](3-equations-sin-x-a-et.qmd#exercice-2-9)
+- [Exercice 2.14](5-equations-tan-x-a.qmd#exercice-2-14)

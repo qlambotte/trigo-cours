@@ -1,0 +1,103 @@
+# GÉNÉRÉ par typweb à partir de typweb.toml : NE PAS ÉDITER (modifier typweb.toml).
+project:
+  type: book
+  output-dir: _book
+  # le contenu est régénéré depuis les notes Typst à chaque rendu / aperçu
+  pre-render: python3 ../../../typweb/typweb.py contenu
+  resources:
+    - js/*.js
+    - js/*.css
+    - js/*.json
+    - index.json
+    - sw.js
+    - trigo.pdf
+    - trigo-corrige.pdf
+    - trigo-ch1-suppl.pdf
+    - trigo-ch2-suppl.pdf
+    - trigo-ch3-suppl.pdf
+    - trigo-ch4-suppl.pdf
+    - trigo-ch5-suppl.pdf
+    - trigo-derivees-suppl.pdf
+
+book:
+  title: "Fonctions trigonométriques"
+  subtitle: "Cours & exercices — 5e, 4 périodes (5UAA5)"
+  author: "Quentin Lambotte"
+  date: today
+  date-format: "YYYY"
+  reader-mode: false
+  search: true
+  site-url: "https://qlambotte.github.io/trigo-cours/"
+  sidebar:
+    style: docked
+    collapse-level: 1
+    pinned: true
+  chapters:
+    - index.qmd
+    - objectifs.qmd
+    - part: ch1-tourner-angles-arcs/index.qmd
+      chapters:
+        - ch1-tourner-angles-arcs/1-la-cabine-du-london-eye.qmd
+        - ch1-tourner-angles-arcs/2-longueur-dun-arc-aire-dun.qmd
+        - ch1-tourner-angles-arcs/3-le-radian-mesurer-un-arc.qmd
+        - ch1-tourner-angles-arcs/4-angles-orientes-plusieurs-tours.qmd
+    - part: ch2-le-cercle-trigonomet/index.qmd
+      chapters:
+        - ch2-le-cercle-trigonomet/1-enrouler-la-droite-reelle-sur.qmd
+        - ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.qmd
+        - ch2-le-cercle-trigonomet/3-equations-sin-x-a-et.qmd
+        - ch2-le-cercle-trigonomet/4-la-tangente.qmd
+        - ch2-le-cercle-trigonomet/5-equations-tan-x-a.qmd
+    - part: ch3-les-fonctions-trigon/index.qmd
+      chapters:
+        - ch3-les-fonctions-trigon/1-du-cercle-au-graphique-sinus.qmd
+        - ch3-les-fonctions-trigon/2-la-fonction-tangente.qmd
+        - ch3-les-fonctions-trigon/3-resoudre-graphiquement-choisir-son-outil.qmd
+    - part: ch4-la-fonction-x-a-sin/index.qmd
+      chapters:
+        - ch4-la-fonction-x-a-sin/1-role-de-a-et-de.qmd
+        - ch4-la-fonction-x-a-sin/2-role-de-c-phase-et.qmd
+        - ch4-la-fonction-x-a-sin/3-tracer-apparier-retrouver-lexpression.qmd
+        - ch4-la-fonction-x-a-sin/4-equations-a-sin-b-x.qmd
+    - part: ch5-modeliser-des-phenom/index.qmd
+      chapters:
+        - ch5-modeliser-des-phenom/1-des-sinusoides-partout.qmd
+        - ch5-modeliser-des-phenom/2-retour-au-london-eye-les.qmd
+    - part: ch6-module-derivees-trig/index.qmd
+      chapters:
+        - ch6-module-derivees-trig/1-derivees-de-sinus-cosinus-et.qmd
+        - ch6-module-derivees-trig/2-derivees-de-composees-vitesse-dun.qmd
+    - sources.qmd
+    - essentiel.qmd
+    - autoeval.qmd
+    - nouveautes.qmd
+    - mode-emploi.qmd
+  page-footer:
+    left: "Fonctions trigonométriques — cours & exercices"
+    right: "© {{< meta book.author >}}"
+
+lang: fr
+
+format:
+  html:
+    theme:
+      - cosmo
+      - polices.scss
+      - theme.scss
+      - styles-essai.scss
+    include-in-header:
+      - _includes/theme-init.html
+    include-after-body:
+      - _includes/aides.html
+      - _includes/tools.html
+      - _includes/scripts.html
+      - _includes/styles-essai.html
+    toc: true
+    toc-title: "Sur cette page"
+    toc-depth: 3
+    number-sections: false
+    html-math-method: mathjax
+    grid:
+      sidebar-width: 300px
+      body-width: 880px
+      margin-width: 200px

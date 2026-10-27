@@ -1,0 +1,16 @@
+---
+title: "Chapitre 6 — Module : dérivées trigonométriques"
+---
+
+<!-- GÉNÉRÉ par typweb à partir des notes Typst : NE PAS ÉDITER (les modifications seraient écrasées). -->
+
+Ce module suppose connu le cours sur les dérivées. Il répond à une question laissée de côté : *à quelle vitesse la cabine monte-t-elle ?* Les formules sont d’abord **vues** sur le graphique et sur le cercle, avant d’être écrites.
+
+## Sections
+
+1. [Dérivées de sinus, cosinus et tangente](1-derivees-de-sinus-cosinus-et.qmd) []{.suivi-sec data-exos="6.1 6.2 6.3 6.4"}
+2. [Dérivées de composées ; vitesse d’un mouvement circulaire](2-derivees-de-composees-vitesse-dun.qmd) []{.suivi-sec data-exos="6.5 6.6"}
+
+## À faire à la maison
+
+- [Exercice 6.4](1-derivees-de-sinus-cosinus-et.qmd#exercice-6-4)

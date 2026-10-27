@@ -1,0 +1,11 @@
+---
+title: "Sources"
+subtitle: "Références des données et documents utilisés"
+---
+
+<!-- GÉNÉRÉ par typweb à partir des notes Typst : NE PAS ÉDITER (les modifications seraient écrasées). -->
+
+- Structurae, « London Eye », fiche de l’ouvrage, structurae.net/fr/ouvrages/london-eye (diamètre 120 m, hauteur 135 m). ([page](ch1-tourner-angles-arcs/1-la-cabine-du-london-eye.html))
+- « The wheel rotates at 26 cm per second \[… ([page](ch1-tourner-angles-arcs/1-la-cabine-du-london-eye.html))
+- Article « London Eye », Wikipédia (en anglais) : « The wheel rotates at 26 cm per second \[… ([page](ch1-tourner-angles-arcs/3-le-radian-mesurer-un-arc.html))
+- Observatoire royal de Belgique, « Lever et coucher de soleil en 2026 », robinfo.oma.be (heure légale belge). ([page](ch5-modeliser-des-phenom/1-des-sinusoides-partout.html))

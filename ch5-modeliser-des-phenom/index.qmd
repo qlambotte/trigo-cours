@@ -1,0 +1,16 @@
+---
+title: "Chapitre 5 — Modéliser des phénomènes périodiques"
+---
+
+<!-- GÉNÉRÉ par typweb à partir des notes Typst : NE PAS ÉDITER (les modifications seraient écrasées). -->
+
+Nous avons maintenant un outil, la fonction $x \mapsto a \sin(b x + c)$, et une formule pour la hauteur de la cabine. Dans ce dernier chapitre, nous l’utilisons pour d’autres phénomènes qui se répètent, nous comparons un modèle à des données réelles, et nous répondons enfin à la question du cours.
+
+## Sections
+
+1. [Des sinusoïdes partout](1-des-sinusoides-partout.qmd)
+2. [Retour au London Eye ; les limites d’un modèle](2-retour-au-london-eye-les.qmd) []{.suivi-sec data-exos="5.1 5.2 5.3"}
+
+## À faire à la maison
+
+- [Exercice 5.3](2-retour-au-london-eye-les.qmd#exercice-5-3)

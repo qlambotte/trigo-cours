@@ -1,0 +1,336 @@
+---
+title: "L'essentiel"
+subtitle: "Définitions et propriétés du cours, pour s'y retrouver"
+---
+
+<!-- GÉNÉRÉ par typweb à partir des notes Typst : NE PAS ÉDITER (les modifications seraient écrasées). -->
+
+::: {.callout-important title="À lire avant d'utiliser cette page"}
+Cette page rassemble les énoncés du cours, **sans** les activités qui leur donnent du sens, sans les justifications, les exemples ni les méthodes vues en classe. Connaître ces énoncés **ne suffit pas** : l'essentiel, c'est de savoir les **utiliser**, et cela s'apprend avec les exemples et les exercices.
+
+Sers-t'en pour retrouver un énoncé ou vérifier que tu peux le **redire sans regarder**, puis retourne au cours (lien « dans le cours » sous chaque encadré) et aux exercices.
+:::
+
+## Chapitre 1 — Tourner : angles, arcs et radians
+
+### Longueur d’un arc, aire d’un secteur
+
+::: {#ess-propriete-1-1 data-sorte="propriete" data-num="1.1" data-page="8" data-phys="11" data-id="5UAA5.aire-disque" data-type="propriete" data-tags="" .theo .theo-propriete}
+::: {.theo-head}
+**Propriété 1.1** — aire du disque
+:::
+
+::: {.theo-body}
+L’aire d’un disque de rayon $r$ vaut $A = \pi r^{2}$.
+:::
+:::
+
+::: {.ess-lien}
+[↗ dans le cours](ch1-tourner-angles-arcs/2-longueur-dun-arc-aire-dun.qmd#propriete-1-1)
+:::
+
+::: {#ess-propriete-1-2 data-sorte="propriete" data-num="1.2" data-page="8" data-phys="11" data-id="5UAA5.arc-secteur-angle-degres" data-type="propriete" data-tags="" .theo .theo-propriete}
+::: {.theo-head}
+**Propriété 1.2** — arc et secteur, angle en degrés
+:::
+
+::: {.theo-body}
+Dans un cercle de rayon $r$, un angle au centre de $\alpha$ degrés intercepte un arc de longueur $\ell$ et délimite un secteur d’aire $A$ :
+
+$$
+\ell = \frac{\alpha}{360} \cdot 2 \pi r, \quad \quad A = \frac{\alpha}{360} \cdot \pi r^{2}.
+$$
+:::
+:::
+
+::: {.ess-lien}
+[↗ dans le cours](ch1-tourner-angles-arcs/2-longueur-dun-arc-aire-dun.qmd#propriete-1-2)
+:::
+
+### Le radian : mesurer un arc en rayons
+
+::: {#ess-definition-1-1 data-sorte="definition" data-num="1.1" data-page="11" data-phys="14" data-id="5UAA5.radian" data-type="definition" data-tags="" .theo .theo-definition}
+::: {.theo-head}
+**Définition 1.1** — radian
+:::
+
+::: {.theo-body}
+Un angle au centre mesure $\theta$ **radians** si l’arc qu’il intercepte a une longueur égale à $\theta$ fois le rayon :
+
+$$
+\theta = \frac{\ell}{r}.
+$$
+
+On écrit « $\theta$ rad », ou simplement $\theta$.
+:::
+:::
+
+::: {.ess-lien}
+[↗ dans le cours](ch1-tourner-angles-arcs/3-le-radian-mesurer-un-arc.qmd#definition-1-1)
+:::
+
+::: {#ess-propriete-1-3 data-sorte="propriete" data-num="1.3" data-page="11" data-phys="14" data-id="5UAA5.arc-secteur-angle-radians" data-type="propriete" data-tags="" .theo .theo-propriete}
+::: {.theo-head}
+**Propriété 1.3** — arc et secteur, angle en radians
+:::
+
+::: {.theo-body}
+Dans un cercle de rayon $r$, un angle au centre de $\theta$ radians intercepte un arc de longueur $\ell$ et délimite un secteur d’aire $A$ :
+
+$$
+\ell = r \theta, \quad \quad A = \frac{r^{2} \theta}{2}.
+$$
+:::
+:::
+
+::: {.ess-lien}
+[↗ dans le cours](ch1-tourner-angles-arcs/3-le-radian-mesurer-un-arc.qmd#propriete-1-3)
+:::
+
+### Angles orientés, plusieurs tours
+
+::: {#ess-definition-1-2 data-sorte="definition" data-num="1.2" data-page="13" data-phys="16" data-id="5UAA5.angle-oriente" data-type="definition" data-tags="" .theo .theo-definition}
+::: {.theo-head}
+**Définition 1.2** — angle orienté
+:::
+
+::: {.theo-body}
+Un **angle orienté** est donné par deux demi-droites de même origine, prises dans un ordre : l’une est l’origine, l’autre l’extrémité. Il décrit une rotation de l’une vers l’autre. On compte positivement les rotations dans le **sens trigonométrique** (sens contraire des aiguilles d’une montre) et négativement celles dans le sens horlogique. Un angle orienté peut dépasser un tour.
+:::
+:::
+
+::: {.ess-lien}
+[↗ dans le cours](ch1-tourner-angles-arcs/4-angles-orientes-plusieurs-tours.qmd#definition-1-2)
+:::
+
+::: {#ess-definition-1-3 data-sorte="definition" data-num="1.3" data-page="14" data-phys="17" data-id="5UAA5.mesures-angle-oriente" data-type="definition" data-tags="" .theo .theo-definition}
+::: {.theo-head}
+**Définition 1.3** — mesures d’un angle orienté
+:::
+
+::: {.theo-body}
+Si $\alpha$ est une mesure d’un angle orienté, ses autres mesures sont les réels $\alpha + 2 k \pi$, où $k \in \mathbb{Z}$. Sa **mesure principale** est celle qui appartient à l’intervalle $[0 ; 2 \pi[$.
+:::
+:::
+
+::: {.ess-lien}
+[↗ dans le cours](ch1-tourner-angles-arcs/4-angles-orientes-plusieurs-tours.qmd#definition-1-3)
+:::
+
+## Chapitre 2 — Le cercle trigonométrique
+
+### Enrouler la droite réelle sur le cercle
+
+::: {#ess-definition-2-1 data-sorte="definition" data-num="2.1" data-page="17" data-phys="20" data-id="5UAA5.cercle-trigonometrique-2" data-type="definition" data-tags="" .theo .theo-definition}
+::: {.theo-head}
+**Définition 2.1** — cercle trigonométrique
+:::
+
+::: {.theo-body}
+Le **cercle trigonométrique** est le cercle centré à l’origine $O$ d’un repère orthonormé, dont le **rayon est pris comme unité**. À tout réel $x$, on associe le point $P(x)$ du cercle obtenu en parcourant, à partir du point $(1 ; 0)$, un arc de longueur $|x|$, dans le sens trigonométrique si $x > 0$, dans l’autre sens si $x < 0$.
+:::
+:::
+
+::: {.ess-lien}
+[↗ dans le cours](ch2-le-cercle-trigonomet/1-enrouler-la-droite-reelle-sur.qmd#definition-2-1)
+:::
+
+::: {#ess-definition-2-2 data-sorte="definition" data-num="2.2" data-page="18" data-phys="21" data-id="5UAA5.cosinus-sinus-reel" data-type="definition" data-tags="" .theo .theo-definition}
+::: {.theo-head}
+**Définition 2.2** — cosinus et sinus d’un réel
+:::
+
+::: {.theo-body}
+Soit $x$ un réel et $P(x)$ le point correspondant du cercle trigonométrique.
+
+- Le **cosinus** de $x$, noté $\cos x$, est l’**abscisse** de $P(x)$.
+- Le **sinus** de $x$, noté $\sin x$, est l’**ordonnée** de $P(x)$.
+:::
+:::
+
+::: {.ess-lien}
+[↗ dans le cours](ch2-le-cercle-trigonomet/1-enrouler-la-droite-reelle-sur.qmd#definition-2-2)
+:::
+
+### Valeurs remarquables et symétries
+
+::: {#ess-propriete-2-1 data-sorte="propriete" data-num="2.1" data-page="21" data-phys="24" data-id="5UAA5.relation-fondamentale" data-type="propriete" data-tags="" .theo .theo-propriete}
+::: {.theo-head}
+**Propriété 2.1** — relation fondamentale
+:::
+
+::: {.theo-body}
+Pour tout réel $x$ : $\quad \cos^{2} x + \sin^{2} x = 1$.
+:::
+:::
+
+::: {.ess-lien}
+[↗ dans le cours](ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.qmd#propriete-2-1)
+:::
+
+::: {#ess-propriete-2-2 data-sorte="propriete" data-num="2.2" data-page="22" data-phys="25" data-id="5UAA5.angles-associes-lus-cercle" data-type="propriete" data-tags="" .theo .theo-propriete}
+::: {.theo-head}
+**Propriété 2.2** — angles associés, lus sur le cercle
+:::
+
+::: {.theo-body}
+Pour tout réel $x$ :
+
+::: {.tableau}
+| **symétrie** | **réel associé** | **cosinus** | **sinus** |
+|:---:|:---:|:---:|:---:|
+| axe horizontal | $-x$ | $\cos(-x) = \cos x$ | $\sin(-x) = -\sin x$ |
+| axe vertical | $\pi - x$ | $\cos(\pi - x) = -\cos x$ | $\sin(\pi - x) = \sin x$ |
+| origine | $\pi + x$ | $\cos(\pi + x) = -\cos x$ | $\sin(\pi + x) = -\sin x$ |
+:::
+:::
+:::
+
+::: {.ess-lien}
+[↗ dans le cours](ch2-le-cercle-trigonomet/2-valeurs-remarquables-et-symetries.qmd#propriete-2-2)
+:::
+
+### Équations $\sin x = a$ et $\cos x = a$
+
+::: {#ess-propriete-2-3 data-sorte="propriete" data-num="2.3" data-page="25" data-phys="28" data-id="5UAA5.equations-2" data-type="propriete" data-tags="" .theo .theo-propriete}
+::: {.theo-head}
+**Propriété 2.3** — équations $\sin x = a$ et $\cos x = a$
+:::
+
+::: {.theo-body}
+Soit $-1 \leq a \leq 1$.
+
+- $\sin x = a$ ssi $x = \alpha + 2 k \pi$ ou $x = \pi - \alpha + 2 k \pi$ ($k \in \mathbb{Z}$), où $\alpha = \sin^{-1}(a)$, réel de $[-\frac{\pi}{2} ; \frac{\pi}{2}]$ donné par la calculatrice ;
+- $\cos x = a$ ssi $x = \alpha + 2 k \pi$ ou $x = -\alpha + 2 k \pi$ ($k \in \mathbb{Z}$), où $\alpha = \cos^{-1}(a)$, réel de $[0 ; \pi]$ donné par la calculatrice.
+
+Si $a > 1$ ou $a < -1$, l’équation n’a pas de solution.
+:::
+:::
+
+::: {.ess-lien}
+[↗ dans le cours](ch2-le-cercle-trigonomet/3-equations-sin-x-a-et.qmd#propriete-2-3)
+:::
+
+### La tangente
+
+::: {#ess-definition-2-3 data-sorte="definition" data-num="2.3" data-page="26" data-phys="29" data-id="5UAA5.tangente-reel" data-type="definition" data-tags="" .theo .theo-definition}
+::: {.theo-head}
+**Définition 2.3** — tangente d’un réel
+:::
+
+::: {.theo-body}
+La **tangente** de $x$, notée $\tan x$, est la **pente** de la droite $O P(x)$ :
+
+$$
+\tan x = \frac{\sin x}{\cos x},
+$$
+
+définie lorsque $\cos x \neq 0$, c’est-à-dire pour $x \neq \frac{\pi}{2} + k \pi$ ($k \in \mathbb{Z}$).
+:::
+:::
+
+::: {.ess-lien}
+[↗ dans le cours](ch2-le-cercle-trigonomet/4-la-tangente.qmd#definition-2-3)
+:::
+
+## Chapitre 3 — Les fonctions trigonométriques
+
+### Du cercle au graphique : sinus et cosinus
+
+::: {#ess-definition-3-1 data-sorte="definition" data-num="3.1" data-page="32" data-phys="35" data-id="5UAA5.fonction-periodique" data-type="definition" data-tags="" .theo .theo-definition}
+::: {.theo-head}
+**Définition 3.1** — fonction périodique
+:::
+
+::: {.theo-body}
+Une fonction $f$ est **périodique** s’il existe un réel $T > 0$ tel que, pour tout $x$ du domaine de $f$, $x + T$ appartient au domaine et $f(x + T) = f(x)$. Le plus petit réel $T > 0$ qui convient est la **période** de $f$.
+
+- La **fréquence** de $f$ est $\frac{1}{T}$ : le nombre de périodes par unité de la variable.
+- Si $f$ a un maximum $M$ et un minimum $m$, son **amplitude** est $\frac{M - m}{2}$.
+:::
+:::
+
+::: {.ess-lien}
+[↗ dans le cours](ch3-les-fonctions-trigon/1-du-cercle-au-graphique-sinus.qmd#definition-3-1)
+:::
+
+## Chapitre 4 — La fonction x ↦ a sin(bx + c)
+
+### Rôle de $a$ et de $b$
+
+::: {#ess-propriete-4-1 data-sorte="propriete" data-num="4.1" data-page="40" data-phys="43" data-id="5UAA5.role-2" data-type="propriete" data-tags="" .theo .theo-propriete}
+::: {.theo-head}
+**Propriété 4.1** — rôle de $a$ et de $b$
+:::
+
+::: {.theo-body}
+Pour $a \neq 0$ et $b \neq 0$, la fonction $f(x) = a \sin(b x)$ :
+
+- varie entre $-|a|$ et $|a|$ : son **amplitude** vaut $|a|$ (si $a < 0$, la courbe est de plus retournée) ;
+- a pour **période** $T = \frac{2 \pi}{|b|}$ : l’argument $b x$ fait un tour complet quand $x$ parcourt un intervalle de longueur $\frac{2 \pi}{|b|}$.
+:::
+:::
+
+::: {.ess-lien}
+[↗ dans le cours](ch4-la-fonction-x-a-sin/1-role-de-a-et-de.qmd#propriete-4-1)
+:::
+
+### Rôle de $c$ : phase et déphasage
+
+::: {#ess-propriete-4-2 data-sorte="propriete" data-num="4.2" data-page="41" data-phys="44" data-id="5UAA5.role-3" data-type="propriete" data-tags="" .theo .theo-propriete}
+::: {.theo-head}
+**Propriété 4.2** — rôle de $c$
+:::
+
+::: {.theo-body}
+Pour $b \neq 0$, on a $a \sin(b x + c) = a \sin(b(x + \frac{c}{b}))$ : le graphique de $x \mapsto a \sin(b x + c)$ est celui de $x \mapsto a \sin(b x)$ translaté horizontalement de $-\frac{c}{b}$. Le nombre $-\frac{c}{b}$, valeur de $x$ pour laquelle l’argument s’annule, est le **déphasage**.
+:::
+:::
+
+::: {.ess-lien}
+[↗ dans le cours](ch4-la-fonction-x-a-sin/2-role-de-c-phase-et.qmd#propriete-4-2)
+:::
+
+## Chapitre 6 — Module : dérivées trigonométriques
+
+### Dérivées de sinus, cosinus et tangente
+
+::: {#ess-propriete-6-1 data-sorte="propriete" data-num="6.1" data-page="54" data-phys="57" data-id="5UAA5.derivees" data-type="propriete" data-tags="" .theo .theo-propriete}
+::: {.theo-head}
+**Propriété 6.1** — dérivées de $\sin$, $\cos$, $\tan$
+:::
+
+::: {.theo-body}
+Pour tout réel $x$ (et $\cos x \neq 0$ pour la tangente) :
+
+$$
+(\sin x)' = \cos x, \quad \quad (\cos x)' = -\sin x, \quad \quad (\tan x)' = \frac{1}{\cos^{2} x} = 1 + \tan^{2} x.
+$$
+:::
+:::
+
+::: {.ess-lien}
+[↗ dans le cours](ch6-module-derivees-trig/1-derivees-de-sinus-cosinus-et.qmd#propriete-6-1)
+:::
+
+### Dérivées de composées ; vitesse d’un mouvement circulaire
+
+::: {#ess-propriete-6-2 data-sorte="propriete" data-num="6.2" data-page="55" data-phys="58" data-id="5UAA5.derivees-composees" data-type="propriete" data-tags="" .theo .theo-propriete}
+::: {.theo-head}
+**Propriété 6.2** — dérivées de composées
+:::
+
+::: {.theo-body}
+Si $g$ est dérivable :
+
+$$
+(\sin g(x))' = \cos g(x) \cdot g'(x), \quad (\cos g(x))' = -\sin g(x) \cdot g'(x), \quad (\tan g(x))' = \frac{g'(x)}{\cos^{2} g(x)}.
+$$
+
+En particulier : $(a \sin(b x + c))' = a b \cos(b x + c)$.
+:::
+:::
+
+::: {.ess-lien}
+[↗ dans le cours](ch6-module-derivees-trig/2-derivees-de-composees-vitesse-dun.qmd#propriete-6-2)
+:::

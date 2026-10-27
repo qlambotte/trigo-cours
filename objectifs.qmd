@@ -1,0 +1,194 @@
+---
+title: "Objectifs"
+subtitle: "Compétences à développer dans ce chapitre"
+---
+
+
+<!-- GÉNÉRÉ par typweb (grille de objectifs.typ) : NE PAS ÉDITER. -->
+
+
+::: {.obj-intro}
+Je suis capable de…
+:::
+
+
+::: {#obj-suivi data-cle="trigo" data-autoeval="autoeval.html"}
+:::
+
+
+## Connaître {.obj-cat}
+
+::: {.obj-liste}
+
+::: {.obj data-code="C1"}
+[C1]{.obj-code}
+
+::: {.obj-texte}
+Représenter sur un cercle trigonométrique un point correspondant à un angle donné ainsi que ses nombres trigonométriques.
+:::
+:::
+
+::: {.obj data-code="C2"}
+[C2]{.obj-code}
+
+::: {.obj-texte}
+Représenter graphiquement les fonctions trigonométriques.
+:::
+:::
+
+::: {.obj data-code="C3"}
+[C3]{.obj-code}
+
+::: {.obj-texte}
+Associer graphiquement les nombres trigonométriques d’un angle et les images d’un réel par une fonction trigonométrique.
+:::
+:::
+
+::: {.obj data-code="C4"}
+[C4]{.obj-code}
+
+::: {.obj-texte}
+Interpréter le rôle des paramètres $a$, $b$ et $c$ de la fonction $x \mapsto a \sin(b x + c)$.
+:::
+:::
+
+::: {.obj data-code="C5"}
+[C5]{.obj-code}
+
+::: {.obj-texte}
+Définir période, fréquence, amplitude d’une fonction périodique.
+:::
+:::
+
+::: {.obj data-code="C6"}
+[C6]{.obj-code}
+
+::: {.obj-texte}
+Décrire comment la hauteur d’un point qui tourne varie quand l’arc parcouru augmente (de plus en plus / de moins en moins vite).
+:::
+:::
+
+::: {.obj data-code="C7"}
+[C7]{.obj-code}
+
+::: {.obj-texte}
+Exprimer un angle en radians comme « nombre de rayons » de l’arc intercepté ; convertir degrés ↔ radians.
+:::
+:::
+
+::: {.obj data-code="C8"}
+[C8]{.obj-code}
+
+::: {.obj-texte}
+Lire sur le cercle les liens entre nombres trigonométriques d’angles symétriques et la relation $\cos^{2} x + \sin^{2} x = 1$.
+:::
+:::
+
+::: {.obj data-code="C9"}
+[C9]{.obj-code}
+
+::: {.obj-texte}
+(D) Interpréter $(\sin x)' = \cos x$ sur le graphique (pente) et sur le cercle (vitesse verticale d’un point qui tourne).
+:::
+:::
+
+:::
+
+
+## Appliquer {.obj-cat}
+
+::: {.obj-liste}
+
+::: {.obj data-code="A1"}
+[A1]{.obj-code}
+
+::: {.obj-texte}
+Calculer une amplitude d’angle, une longueur d’arc de cercle et une aire de secteur.
+:::
+:::
+
+::: {.obj data-code="A2"}
+[A2]{.obj-code}
+
+::: {.obj-texte}
+Apparier des graphiques de transformées de fonctions trigonométriques et des expressions analytiques.
+:::
+:::
+
+::: {.obj data-code="A3"}
+[A3]{.obj-code}
+
+::: {.obj-texte}
+Trouver l’expression analytique d’une transformée simple d’une fonction trigonométrique à partir de son graphique.
+:::
+:::
+
+::: {.obj data-code="A4"}
+[A4]{.obj-code}
+
+::: {.obj-texte}
+Tracer le graphique d’une transformée simple d’une fonction trigonométrique.
+:::
+:::
+
+::: {.obj data-code="A5"}
+[A5]{.obj-code}
+
+::: {.obj-texte}
+Résoudre des équations du type $\sin x = a$, $\cos x = a$, $\tan x = a$ en utilisant la calculatrice, le cercle trigonométrique et les fonctions trigonométriques.
+:::
+:::
+
+::: {.obj data-code="A6"}
+[A6]{.obj-code}
+
+::: {.obj-texte}
+Résoudre graphiquement et/ou algébriquement une équation trigonométrique du type $a \sin(b x + c) = k$.
+:::
+:::
+
+::: {.obj data-code="A7"}
+[A7]{.obj-code}
+
+::: {.obj-texte}
+Déterminer l’amplitude, la période, le déphasage et les extrémums d’une fonction trigonométrique.
+:::
+:::
+
+::: {.obj data-code="A8"}
+[A8]{.obj-code}
+
+::: {.obj-texte}
+(D) Calculer la dérivée d’une expression contenant des fonctions trigonométriques.
+:::
+:::
+
+::: {.obj data-code="A9"}
+[A9]{.obj-code}
+
+::: {.obj-texte}
+Déterminer les caractéristiques (domaine, période, ensemble image, zéros) d’une transformée simple d’une fonction trigonométrique au départ de son expression analytique.
+:::
+:::
+
+:::
+
+
+## Transférer {.obj-cat}
+
+::: {.obj-liste}
+
+::: {.obj data-code="T1"}
+[T1]{.obj-code}
+
+::: {.obj-texte}
+Résoudre un problème qui requiert l’utilisation d’une fonction du type $x \mapsto a \sin(b x + c)$.
+:::
+:::
+
+:::
+
+
+::: {.ae-lien}
+[✔ S'autoévaluer sur ces objectifs →](autoeval.qmd)
+:::

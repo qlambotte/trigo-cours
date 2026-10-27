@@ -1,0 +1,25 @@
+---
+title: "Chapitre 1 — Tourner : angles, arcs et radians"
+---
+
+<!-- GÉNÉRÉ par typweb à partir des notes Typst : NE PAS ÉDITER (les modifications seraient écrasées). -->
+
+Une cabine de la grande roue London Eye, à Londres, tourne lentement autour de l’axe de la roue. Tout au long de cette UAA, nous chercherons à répondre à une question :
+
+*À quelle hauteur sera la cabine au bout de $t$ minutes ? Quand dépassera-t-elle 100 m ?*
+
+En 3^e^, sinus, cosinus et tangente étaient des rapports de longueurs de côtés dans un triangle rectangle, pour des angles compris entre $0°$ et $90°$. Ils ne suffisent pas pour répondre : la roue fait plusieurs tours, et ce qui varie, c’est le temps. Pour y arriver, il faudra d’abord répondre à d’autres questions. Chaque section s’ouvre sur l’une d’elles ; la synthèse, à la fin du cours, les reprend toutes avec leurs réponses.
+
+## Sections
+
+1. [La cabine du London Eye](1-la-cabine-du-london-eye.qmd) []{.suivi-sec data-exos="1.1"}
+2. [Longueur d’un arc, aire d’un secteur](2-longueur-dun-arc-aire-dun.qmd) []{.suivi-sec data-exos="1.2 1.3 1.4 1.5 1.6"}
+3. [Le radian : mesurer un arc en rayons](3-le-radian-mesurer-un-arc.qmd) []{.suivi-sec data-exos="1.7 1.8 1.9 1.10"}
+4. [Angles orientés, plusieurs tours](4-angles-orientes-plusieurs-tours.qmd) []{.suivi-sec data-exos="1.11 1.12 1.13 1.14 1.15 1.16"}
+
+## À faire à la maison
+
+- [Exercice 1.5](2-longueur-dun-arc-aire-dun.qmd#exercice-1-5)
+- [Exercice 1.6](2-longueur-dun-arc-aire-dun.qmd#exercice-1-6)
+- [Exercice 1.10](3-le-radian-mesurer-un-arc.qmd#exercice-1-10)
+- [Exercice 1.16](4-angles-orientes-plusieurs-tours.qmd#exercice-1-16)

@@ -1,0 +1,134 @@
+---
+title: "Dérivées de composées ; vitesse d’un mouvement circulaire"
+---
+
+<!-- GÉNÉRÉ par typweb à partir des notes Typst : NE PAS ÉDITER (les modifications seraient écrasées). -->
+
+::: {.callout-note title="Question Q7."}
+(suite) Avec la formule de la hauteur en fonction du temps.
+:::
+
+::: {#propriete-6-2 data-sorte="propriete" data-num="6.2" data-page="55" data-phys="58" data-id="5UAA5.derivees-composees" data-type="propriete" data-tags="" .theo .theo-propriete}
+::: {.theo-head}
+**Propriété 6.2** — dérivées de composées
+:::
+
+::: {.theo-body}
+Si $g$ est dérivable :
+
+$$
+(\sin g(x))' = \cos g(x) \cdot g'(x), \quad (\cos g(x))' = -\sin g(x) \cdot g'(x), \quad (\tan g(x))' = \frac{g'(x)}{\cos^{2} g(x)}.
+$$
+
+En particulier : $(a \sin(b x + c))' = a b \cos(b x + c)$.
+:::
+:::
+
+::: {#exercice-6-5 data-sorte="exercice" data-num="6.5" data-page="56" data-phys="59" data-id="5UAA5.ex.063" data-type="exercice" data-tags="" .exo}
+::: {.exo-tete}
+[✎ Exercice 6.5]{.exo-titre} [[A8]{.exo-comp} ★☆☆]{.exo-meta}
+:::
+
+::: {.exo-corps}
+Calcule les dérivées : (e) $\cos(x^{2} + 1)$ ; (f) $\tan(3 x)$ ; (g) $\sin(x^{2})$ ; (h) $\tan(1 + \sin x)$ ; (i) $\sin \sqrt{x}$.
+:::
+:::
+
+::: {.aides}
+::: {.panel-tabset}
+## Indice 1 {.unlisted}
+
+Relis la [propriété « dérivées de composées »](#propriete-6-2).
+
+## Indice 2 {.unlisted}
+
+Dans $\cos(x^{2} + 1)$, quelle est la fonction intérieure $g$ ? Que vaut $g'$ ?
+
+## Indice 3 {.unlisted}
+
+$(\cos g)' = -\sin g \cdot g'$ ; $(\tan g)' = \frac{g'}{\cos^{2} g}$.
+
+## Solution {.unlisted}
+
+::: {.solution-classe}
+(e) $-2 x \sin(x^{2} + 1)$. (f) $\frac{3}{\cos^{2}(3 x)}$. (g) $2 x \cos(x^{2})$. (h) $\frac{\cos x}{\cos^{2}(1 + \sin x)}$. (i) $\frac{\cos \sqrt{x}}{2 \sqrt{x}}$ pour $x > 0$.
+:::
+
+## Pièges {.unlisted}
+
+- Oublier de multiplier par $g'$.
+- Remplacer $g$ par $g'$ dans le cosinus.
+:::
+:::
+
+::: {#exercice-6-6 data-sorte="exercice" data-num="6.6" data-page="56" data-phys="59" data-id="5UAA5.ex.064" data-type="exercice" data-tags="" .exo}
+::: {.exo-tete}
+[✎ Exercice 6.6]{.exo-titre} [[A8]{.exo-comp} ★★☆]{.exo-meta}
+:::
+
+::: {.exo-corps}
+Calcule les dérivées : $3 \sin(2 x - \frac{\pi}{3})$ ; $\cos^{2} x$ ; $5 \cos(\frac{\pi}{4} x)$.
+:::
+:::
+
+::: {.aides}
+::: {.panel-tabset}
+## Indice 1 {.unlisted}
+
+Relis la [propriété « dérivées de composées »](#propriete-6-2).
+
+## Indice 2 {.unlisted}
+
+$\cos^{2} x$, c’est $(\cos x)^{2}$ : quelle est la fonction intérieure ?
+
+## Indice 3 {.unlisted}
+
+$(a \sin(b x + c))' = a b \cos(b x + c)$ ; $(u^{2})' = 2 u u'$.
+
+## Solution {.unlisted}
+
+::: {.solution-classe}
+$(3 \sin(2 x - \frac{\pi}{3}))' = 6 \cos(2 x - \frac{\pi}{3})$. $(\cos^{2} x)' = 2 \cos x \cdot (-\sin x) = -2 \sin x \cos x$. $(5 \cos(\frac{\pi}{4} x))' = -\frac{5 \pi}{4} \sin(\frac{\pi}{4} x)$.
+:::
+
+## Pièges {.unlisted}
+
+- Écrire $(\cos^{2} x)' = 2 \cos x$.
+- Oublier le facteur $\frac{\pi}{4}$.
+:::
+:::
+
+::: {#activite-6-3 data-sorte="activite" data-num="6.3" data-page="56" data-phys="59" data-id="5UAA5.quelle-vitesse-monte-cabine" data-type="activite" data-tags="" .theo .theo-activite}
+::: {.theo-head}
+**Activité 6.3** — à quelle vitesse monte la cabine ?
+:::
+
+::: {.theo-body}
+La hauteur de la cabine au-dessus de l’axe vaut $h(t) = 60 \sin(\frac{\pi}{15} t - \frac{\pi}{2})$ ($h$ en m, $t$ en min).
+
+1. Calcule $h'(t)$. Que représente ce nombre ?
+
+   ::: {.rep-bloc}
+   $h'(t) = 60 \cdot \frac{\pi}{15} \cos(\frac{\pi}{15} t - \frac{\pi}{2}) = 4 \pi \cos(\frac{\pi}{15} t - \frac{\pi}{2})$ : c’est la vitesse à laquelle la hauteur varie, en m/min (positive quand la cabine monte).
+   :::
+2. Quand la cabine monte-t-elle le plus vite ? À quelle vitesse ?
+
+   ::: {.rep-bloc}
+   $h'(t)$ est maximale quand $\cos(\frac{\pi}{15} t - \frac{\pi}{2}) = 1$, c’est-à-dire $\frac{\pi}{15} t - \frac{\pi}{2} = 0$, soit $t = 7{,}5$ min : la cabine est alors au niveau de l’axe. Vitesse : $4 \pi \approx 12{,}57$ m/min.
+   :::
+3. Compare avec la vitesse de la jante : la roue parcourt son périmètre, $120 \pi$ m, en 30 min. Interprète.
+
+   ::: {.rep-bloc}
+   Vitesse de la jante : $\frac{120 \pi}{30} = 4 \pi$ m/min. Au niveau de l’axe, toute la vitesse de la cabine est verticale ; elle monte exactement à la vitesse de la jante.
+   :::
+4. Que vaut $h'(15)$ ? Interprète.
+
+   ::: {.rep-bloc}
+   $h'(15) = 4 \pi \cos(\frac{\pi}{2}) = 0$ : au sommet, la cabine ne monte plus ; elle se déplace horizontalement.
+   :::
+:::
+:::
+
+::: {.ae-lien}
+[✔ S'autoévaluer sur cette section : test de 2 questions →](../autoeval.qmd#sections=sec-derivees-composees)
+:::
