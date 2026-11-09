@@ -158,7 +158,7 @@ La calculatrice doit être en mode **radians** (RAD) quand $x$ est un réel. En 
 
 ::: {#exercice-2-1 data-sorte="exercice" data-num="2.1" data-page="19" data-phys="22" data-id="5UAA5.ex.017" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 2.1]{.exo-titre} [[C1]{.exo-comp} ★☆☆]{.exo-meta}
+[✎ Exercice 2.1]{.exo-titre} [[C1]{.exo-comp data-tip="C1 : Représenter sur un cercle trigonométrique un point correspondant à un angle donné ainsi que ses nombres trigonométriques." tabindex="0"} ★☆☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -222,7 +222,7 @@ $\frac{2 \pi}{9}$ : $\cos \approx 0{,}77$, $\sin \approx 0{,}64$. $\frac{4 \pi}{
 
 ::: {#exercice-2-2 data-sorte="exercice" data-num="2.2" data-page="20" data-phys="23" data-id="5UAA5.ex.018" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 2.2]{.exo-titre} [[C1]{.exo-comp} ★☆☆]{.exo-meta}
+[✎ Exercice 2.2]{.exo-titre} [[C1]{.exo-comp data-tip="C1 : Représenter sur un cercle trigonométrique un point correspondant à un angle donné ainsi que ses nombres trigonométriques." tabindex="0"} ★☆☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -262,7 +262,7 @@ $\frac{7 \pi}{5}$ : $\pi < \frac{7 \pi}{5} < \frac{3 \pi}{2}$, quadrant III : $\
 
 ::: {#exercice-2-3 data-sorte="exercice" data-num="2.3" data-page="20" data-phys="23" data-id="5UAA5.ex.019" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 2.3]{.exo-titre} [[C1]{.exo-comp} ★★☆]{.exo-meta}
+[✎ Exercice 2.3]{.exo-titre} [[C1]{.exo-comp data-tip="C1 : Représenter sur un cercle trigonométrique un point correspondant à un angle donné ainsi que ses nombres trigonométriques." tabindex="0"} ★★☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}

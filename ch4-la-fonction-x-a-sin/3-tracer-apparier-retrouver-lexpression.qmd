@@ -35,7 +35,7 @@ On place ces cinq points, on les relie par une courbe « arrondie », puis on re
 
 ::: {#exercice-4-6 data-sorte="exercice" data-num="4.6" data-page="43" data-phys="46" data-id="5UAA5.ex.045" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 4.6]{.exo-titre} [[A4]{.exo-comp} ★☆☆]{.exo-meta}
+[✎ Exercice 4.6]{.exo-titre} [[A4]{.exo-comp data-tip="A4 : Tracer le graphique d’une transformée simple d’une fonction trigonométrique." tabindex="0"} ★☆☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -91,7 +91,7 @@ Résous « argument $= 0$ », puis ajoute chaque fois un quart de période.
 
 ::: {#exercice-4-7 data-sorte="exercice" data-num="4.7" data-page="44" data-phys="47" data-id="5UAA5.ex.046" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 4.7]{.exo-titre} [[A4]{.exo-comp} ★★☆]{.exo-meta}
+[✎ Exercice 4.7]{.exo-titre} [[A4]{.exo-comp data-tip="A4 : Tracer le graphique d’une transformée simple d’une fonction trigonométrique." tabindex="0"} ★★☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -149,7 +149,7 @@ Calcule les cinq abscisses puis les ordonnées $0$, $a$, $0$, $-a$, $0$ (avec $a
 
 ::: {#exercice-4-8 data-sorte="exercice" data-num="4.8" data-page="44" data-phys="47" data-id="5UAA5.ex.047" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 4.8]{.exo-titre} [[A2]{.exo-comp} ★☆☆]{.exo-meta}
+[✎ Exercice 4.8]{.exo-titre} [[A2]{.exo-comp data-tip="A2 : Apparier des graphiques de transformées de fonctions trigonométriques et des expressions analytiques." tabindex="0"} ★☆☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -230,7 +230,7 @@ Lis pour chaque graphique l’amplitude, la période et l’endroit où la courb
 
 ::: {#exercice-4-9 data-sorte="exercice" data-num="4.9" data-page="45" data-phys="48" data-id="5UAA5.ex.048" data-type="exercice" data-tags="maison" .exo}
 ::: {.exo-tete}
-[✎ Exercice 4.9]{.exo-titre} [⟵ à faire à la maison]{.exo-maison} [[A2]{.exo-comp} ★★☆]{.exo-meta}
+[✎ Exercice 4.9]{.exo-titre} [⟵ à faire à la maison]{.exo-maison} [[A2]{.exo-comp data-tip="A2 : Apparier des graphiques de transformées de fonctions trigonométriques et des expressions analytiques." tabindex="0"} ★★☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -361,7 +361,7 @@ Plusieurs expressions conviennent pour un même graphique : on peut ajouter $2 \
 
 ::: {#exercice-4-10 data-sorte="exercice" data-num="4.10" data-page="46" data-phys="49" data-id="5UAA5.ex.049" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 4.10]{.exo-titre} [[A3]{.exo-comp} ★★☆]{.exo-meta}
+[✎ Exercice 4.10]{.exo-titre} [[A3]{.exo-comp data-tip="A3 : Trouver l’expression analytique d’une transformée simple d’une fonction trigonométrique à partir de son graphique." tabindex="0"} ★★☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -426,7 +426,7 @@ a) Amplitude 3 ; période $4 \pi$ (maximums en $\pi$ et $5 \pi$), donc $b = \fra
 
 ::: {#exercice-4-11 data-sorte="exercice" data-num="4.11" data-page="46" data-phys="49" data-id="5UAA5.ex.050" data-type="exercice" data-tags="maison" .exo}
 ::: {.exo-tete}
-[✎ Exercice 4.11]{.exo-titre} [⟵ à faire à la maison]{.exo-maison} [[A3]{.exo-comp} ★★☆]{.exo-meta}
+[✎ Exercice 4.11]{.exo-titre} [⟵ à faire à la maison]{.exo-maison} [[A3]{.exo-comp data-tip="A3 : Trouver l’expression analytique d’une transformée simple d’une fonction trigonométrique à partir de son graphique." tabindex="0"} ★★☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -499,7 +499,7 @@ $f(x) = 3 \sin(2 x - \frac{\pi}{3})$.
 
 ::: {#exercice-4-12 data-sorte="exercice" data-num="4.12" data-page="46" data-phys="49" data-id="5UAA5.ex.051" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 4.12]{.exo-titre} [[A9]{.exo-comp} ★★☆]{.exo-meta}
+[✎ Exercice 4.12]{.exo-titre} [[A9]{.exo-comp data-tip="A9 : Déterminer les caractéristiques (domaine, période, ensemble image, zéros) d’une transformée simple d’une fonction trigonométrique au départ de son expression analytique." tabindex="0"} ★★☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -536,7 +536,7 @@ Domaine $\mathbb{R}$. Période $\frac{2 \pi}{\frac{1}{2}} = 4 \pi$. Ensemble ima
 
 ::: {#exercice-4-13 data-sorte="exercice" data-num="4.13" data-page="47" data-phys="50" data-id="5UAA5.ex.052" data-type="exercice" data-tags="maison" .exo}
 ::: {.exo-tete}
-[✎ Exercice 4.13]{.exo-titre} [⟵ à faire à la maison]{.exo-maison} [[A9]{.exo-comp} ★★★]{.exo-meta}
+[✎ Exercice 4.13]{.exo-titre} [⟵ à faire à la maison]{.exo-maison} [[A9]{.exo-comp data-tip="A9 : Déterminer les caractéristiques (domaine, période, ensemble image, zéros) d’une transformée simple d’une fonction trigonométrique au départ de son expression analytique." tabindex="0"} ★★★]{.exo-meta}
 :::
 
 ::: {.exo-corps}

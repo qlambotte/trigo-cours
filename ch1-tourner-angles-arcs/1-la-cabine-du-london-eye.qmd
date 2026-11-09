@@ -71,7 +71,7 @@ La roue ci-dessous est dessinée à l’échelle : 1 cm représente 10 m. Les po
 
 ::: {#exercice-1-1 data-sorte="exercice" data-num="1.1" data-page="6" data-phys="9" data-id="5UAA5.ex.001" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 1.1]{.exo-titre} [[C6]{.exo-comp} ★★☆]{.exo-meta}
+[✎ Exercice 1.1]{.exo-titre} [[C6]{.exo-comp data-tip="C6 : Décrire comment la hauteur d’un point qui tourne varie quand l’arc parcouru augmente (de plus en plus / de moins en moins vite)." tabindex="0"} ★★☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}

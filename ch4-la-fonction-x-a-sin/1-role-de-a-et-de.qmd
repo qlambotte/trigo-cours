@@ -84,7 +84,7 @@ $\sin(2 x) \neq 2 \sin x$. Contre-exemple : pour $x = \frac{\pi}{2}$, $\sin(2 \c
 
 ::: {#exercice-4-1 data-sorte="exercice" data-num="4.1" data-page="40" data-phys="43" data-id="5UAA5.ex.040" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 4.1]{.exo-titre} [[C4]{.exo-comp} ★☆☆]{.exo-meta}
+[✎ Exercice 4.1]{.exo-titre} [[C4]{.exo-comp data-tip="C4 : Interpréter le rôle des paramètres a, b et c de la fonction x ↦ a sin(b x + c)." tabindex="0"} ★☆☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -121,7 +121,7 @@ $f$ : amplitude 5, période $2 \pi$. $g$ : amplitude 1, période $\frac{2 \pi}{3
 
 ::: {#exercice-4-2 data-sorte="exercice" data-num="4.2" data-page="41" data-phys="44" data-id="5UAA5.ex.041" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 4.2]{.exo-titre} [[C4]{.exo-comp} ★★☆]{.exo-meta}
+[✎ Exercice 4.2]{.exo-titre} [[C4]{.exo-comp data-tip="C4 : Interpréter le rôle des paramètres a, b et c de la fonction x ↦ a sin(b x + c)." tabindex="0"} ★★☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}

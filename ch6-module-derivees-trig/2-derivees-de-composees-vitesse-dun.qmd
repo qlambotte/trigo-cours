@@ -26,7 +26,7 @@ En particulier : $(a \sin(b x + c))' = a b \cos(b x + c)$.
 
 ::: {#exercice-6-5 data-sorte="exercice" data-num="6.5" data-page="56" data-phys="59" data-id="5UAA5.ex.063" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 6.5]{.exo-titre} [[A8]{.exo-comp} ★☆☆]{.exo-meta}
+[✎ Exercice 6.5]{.exo-titre} [[A8]{.exo-comp data-tip="A8 : (D) Calculer la dérivée d’une expression contenant des fonctions trigonométriques." tabindex="0"} ★☆☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -63,7 +63,7 @@ $(\cos g)' = -\sin g \cdot g'$ ; $(\tan g)' = \frac{g'}{\cos^{2} g}$.
 
 ::: {#exercice-6-6 data-sorte="exercice" data-num="6.6" data-page="56" data-phys="59" data-id="5UAA5.ex.064" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 6.6]{.exo-titre} [[A8]{.exo-comp} ★★☆]{.exo-meta}
+[✎ Exercice 6.6]{.exo-titre} [[A8]{.exo-comp data-tip="A8 : (D) Calculer la dérivée d’une expression contenant des fonctions trigonométriques." tabindex="0"} ★★☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}

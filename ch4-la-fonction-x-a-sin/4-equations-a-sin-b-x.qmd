@@ -37,7 +37,7 @@ Diviser par $b$ **seulement** le $2 k \pi$ oublié : $3 x = … + 2 k \pi$ donne
 
 ::: {#exercice-4-14 data-sorte="exercice" data-num="4.14" data-page="47" data-phys="50" data-id="5UAA5.ex.053" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 4.14]{.exo-titre} [[A6]{.exo-comp} ★☆☆]{.exo-meta}
+[✎ Exercice 4.14]{.exo-titre} [[A6]{.exo-comp data-tip="A6 : Résoudre graphiquement et/ou algébriquement une équation trigonométrique du type a sin(b x + c) = k." tabindex="0"} ★☆☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -81,7 +81,7 @@ Résous pour l’argument (deux familles), puis isole $x$ en divisant aussi $2 k
 
 ::: {#exercice-4-15 data-sorte="exercice" data-num="4.15" data-page="48" data-phys="51" data-id="5UAA5.ex.054" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 4.15]{.exo-titre} [[A6]{.exo-comp} ★★☆]{.exo-meta}
+[✎ Exercice 4.15]{.exo-titre} [[A6]{.exo-comp data-tip="A6 : Résoudre graphiquement et/ou algébriquement une équation trigonométrique du type a sin(b x + c) = k." tabindex="0"} ★★☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -118,7 +118,7 @@ $\sin(3 x) = -\frac{1}{2}$ : $3 x = -\frac{\pi}{6} + 2 k \pi$ ou $3 x = \frac{7 
 
 ::: {#exercice-4-16 data-sorte="exercice" data-num="4.16" data-page="48" data-phys="51" data-id="5UAA5.ex.055" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 4.16]{.exo-titre} [[A6]{.exo-comp} ★★★]{.exo-meta}
+[✎ Exercice 4.16]{.exo-titre} [[A6]{.exo-comp data-tip="A6 : Résoudre graphiquement et/ou algébriquement une équation trigonométrique du type a sin(b x + c) = k." tabindex="0"} ★★★]{.exo-meta}
 :::
 
 ::: {.exo-corps}

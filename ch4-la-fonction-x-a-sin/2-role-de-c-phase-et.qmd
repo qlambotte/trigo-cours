@@ -77,7 +77,7 @@ Vérification : $h(0) = 60 \sin(-\frac{\pi}{2}) = -60$ (point bas) ; $h(7{,}5) =
 
 ::: {#exercice-4-3 data-sorte="exercice" data-num="4.3" data-page="42" data-phys="45" data-id="5UAA5.ex.042" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 4.3]{.exo-titre} [[A7]{.exo-comp} ★☆☆]{.exo-meta}
+[✎ Exercice 4.3]{.exo-titre} [[A7]{.exo-comp data-tip="A7 : Déterminer l’amplitude, la période, le déphasage et les extrémums d’une fonction trigonométrique." tabindex="0"} ★☆☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -116,7 +116,7 @@ $f$ : amplitude 3, période $2 \pi$ ; l’argument s’annule pour $x = \frac{\p
 
 ::: {#exercice-4-4 data-sorte="exercice" data-num="4.4" data-page="42" data-phys="45" data-id="5UAA5.ex.043" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 4.4]{.exo-titre} [[A7]{.exo-comp} ★★☆]{.exo-meta}
+[✎ Exercice 4.4]{.exo-titre} [[A7]{.exo-comp data-tip="A7 : Déterminer l’amplitude, la période, le déphasage et les extrémums d’une fonction trigonométrique." tabindex="0"} ★★☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -160,7 +160,7 @@ Quand $\sin(u)$ vaut-il $1$ ? $-1$ ? Que change le signe de $a$ ?
 
 ::: {#exercice-4-5 data-sorte="exercice" data-num="4.5" data-page="43" data-phys="46" data-id="5UAA5.ex.044" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 4.5]{.exo-titre} [[C4]{.exo-comp} ★★☆]{.exo-meta}
+[✎ Exercice 4.5]{.exo-titre} [[C4]{.exo-comp data-tip="C4 : Interpréter le rôle des paramètres a, b et c de la fonction x ↦ a sin(b x + c)." tabindex="0"} ★★☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}

@@ -140,7 +140,7 @@ Convertir $130°$ en radians : $130° = \frac{130}{180} \pi = \frac{13 \pi}{18} 
 
 ::: {#exercice-1-7 data-sorte="exercice" data-num="1.7" data-page="12" data-phys="15" data-id="5UAA5.ex.007" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 1.7]{.exo-titre} [[C7]{.exo-comp} ★☆☆]{.exo-meta}
+[✎ Exercice 1.7]{.exo-titre} [[C7]{.exo-comp data-tip="C7 : Exprimer un angle en radians comme « nombre de rayons » de l’arc intercepté ; convertir degrés ↔ radians." tabindex="0"} ★☆☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -177,7 +177,7 @@ $225° = \frac{5 \pi}{4}$ ; $315° = \frac{7 \pi}{4}$ ; $240° = \frac{4 \pi}{3}
 
 ::: {#exercice-1-8 data-sorte="exercice" data-num="1.8" data-page="12" data-phys="15" data-id="5UAA5.ex.008" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 1.8]{.exo-titre} [[C7]{.exo-comp} ★☆☆]{.exo-meta}
+[✎ Exercice 1.8]{.exo-titre} [[C7]{.exo-comp data-tip="C7 : Exprimer un angle en radians comme « nombre de rayons » de l’arc intercepté ; convertir degrés ↔ radians." tabindex="0"} ★☆☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -214,7 +214,7 @@ $\frac{2 \pi}{3} = 120°$ ; $\frac{7 \pi}{6} = 210°$ ; $\frac{5 \pi}{3} = 300°
 
 ::: {#exercice-1-9 data-sorte="exercice" data-num="1.9" data-page="12" data-phys="15" data-id="5UAA5.ex.009" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 1.9]{.exo-titre} [[C7]{.exo-comp} ★☆☆]{.exo-meta}
+[✎ Exercice 1.9]{.exo-titre} [[C7]{.exo-comp data-tip="C7 : Exprimer un angle en radians comme « nombre de rayons » de l’arc intercepté ; convertir degrés ↔ radians." tabindex="0"} ★☆☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -264,7 +264,7 @@ $2{,}3$ rad $\approx 131{,}78°$ ; $0{,}012$ rad $\approx 0{,}69°$ ; $0{,}5$ ra
 
 ::: {#exercice-1-10 data-sorte="exercice" data-num="1.10" data-page="13" data-phys="16" data-id="5UAA5.ex.010" data-type="exercice" data-tags="maison" .exo}
 ::: {.exo-tete}
-[✎ Exercice 1.10]{.exo-titre} [⟵ à faire à la maison]{.exo-maison} [[A1]{.exo-comp} ★★☆]{.exo-meta}
+[✎ Exercice 1.10]{.exo-titre} [⟵ à faire à la maison]{.exo-maison} [[A1]{.exo-comp data-tip="A1 : Calculer une amplitude d’angle, une longueur d’arc de cercle et une aire de secteur." tabindex="0"} ★★☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}

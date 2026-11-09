@@ -119,7 +119,7 @@ Oublier la deuxième solution : la calculatrice n’en donne qu’une. Toujours 
 
 ::: {#exercice-2-8 data-sorte="exercice" data-num="2.8" data-page="26" data-phys="29" data-id="5UAA5.ex.024" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 2.8]{.exo-titre} [[A5]{.exo-comp} ★★☆]{.exo-meta}
+[✎ Exercice 2.8]{.exo-titre} [[A5]{.exo-comp data-tip="A5 : Résoudre des équations du type sin x = a, cos x = a, tan x = a en utilisant la calculatrice, le cercle trigonométrique et les fonctions trigonométriques." tabindex="0"} ★★☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -157,7 +157,7 @@ $60 \sin \theta = 30$ ssi $\sin \theta = \frac{1}{2}$ : $\theta = \frac{\pi}{6}$
 
 ::: {#exercice-2-9 data-sorte="exercice" data-num="2.9" data-page="26" data-phys="29" data-id="5UAA5.ex.025" data-type="exercice" data-tags="maison" .exo}
 ::: {.exo-tete}
-[✎ Exercice 2.9]{.exo-titre} [⟵ à faire à la maison]{.exo-maison} [[A5]{.exo-comp} ★★★]{.exo-meta}
+[✎ Exercice 2.9]{.exo-titre} [⟵ à faire à la maison]{.exo-maison} [[A5]{.exo-comp data-tip="A5 : Résoudre des équations du type sin x = a, cos x = a, tan x = a en utilisant la calculatrice, le cercle trigonométrique et les fonctions trigonométriques." tabindex="0"} ★★★]{.exo-meta}
 :::
 
 ::: {.exo-corps}

@@ -103,7 +103,7 @@ Asymptotes : [verticales, $x = \frac{\pi}{2} + k \pi$]{.rep}
 
 ::: {#exercice-3-5 data-sorte="exercice" data-num="3.5" data-page="36" data-phys="39" data-id="5UAA5.ex.035" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 3.5]{.exo-titre} [[C2]{.exo-comp} ★★☆]{.exo-meta}
+[✎ Exercice 3.5]{.exo-titre} [[C2]{.exo-comp data-tip="C2 : Représenter graphiquement les fonctions trigonométriques." tabindex="0"} ★★☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -144,7 +144,7 @@ Valeurs : $\tan(-\frac{\pi}{3}) = -\sqrt{3} \approx -1{,}73$ ; $\tan(-\frac{\pi}
 
 ::: {#exercice-3-6 data-sorte="exercice" data-num="3.6" data-page="36" data-phys="39" data-id="5UAA5.ex.036" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 3.6]{.exo-titre} [[C3]{.exo-comp} ★★☆]{.exo-meta}
+[✎ Exercice 3.6]{.exo-titre} [[C3]{.exo-comp data-tip="C3 : Associer graphiquement les nombres trigonométriques d’un angle et les images d’un réel par une fonction trigonométrique." tabindex="0"} ★★☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
@@ -200,7 +200,7 @@ Sinus : segment vertical de l’axe horizontal à $P(x)$ ; cosinus : segment hor
 
 ::: {#exercice-3-7 data-sorte="exercice" data-num="3.7" data-page="37" data-phys="40" data-id="5UAA5.ex.037" data-type="exercice" data-tags="" .exo}
 ::: {.exo-tete}
-[✎ Exercice 3.7]{.exo-titre} [[C3]{.exo-comp} ★★☆]{.exo-meta}
+[✎ Exercice 3.7]{.exo-titre} [[C3]{.exo-comp data-tip="C3 : Associer graphiquement les nombres trigonométriques d’un angle et les images d’un réel par une fonction trigonométrique." tabindex="0"} ★★☆]{.exo-meta}
 :::
 
 ::: {.exo-corps}
